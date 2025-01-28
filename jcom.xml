@@ -893,9 +893,29 @@
 		<desc>歩（仲里依紗）は、親友だった真紀の父・孝雄（緒形直人）の入院部屋にお見舞いに来る。真紀を忘れかけていることに落ち込んでいる孝雄に、歩は寄り添おうとする。</desc>
 		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE0-011-400x400.png" />
 	</programme>
-	<programme channel="jcom_2_1024_32736" start="20250128040000 +0000" stop="20250128090000 +0000">
+	<programme channel="jcom_2_1024_32736" start="20250128040000 +0000" stop="20250128040000 +0000">
 		<title>国会中継「代表質問」　〜衆議院本会議場から中継〜[字]</title>
 		<desc> </desc>
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE0-011-400x400.png" />
+	</programme>
+	<programme channel="jcom_2_1024_32736" start="20250128040000 +0000" stop="20250128083000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE0-011-400x400.png" />
+	</programme>
+	<programme channel="jcom_2_1024_32736" start="20250128083000 +0000" stop="20250128085500 +0000">
+		<title>京都極上モノ紀行「京菓子新世代編」[字][再]</title>
+		<desc>京都で生まれた極上のモノを紹介。今回は新世代の京菓子。洋菓子の材料を用いた伝統の京菓子、モダンなデザインの干菓子、京菓子と日本酒との新たな取り合わせなどが登場。</desc>
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE0-011-400x400.png" />
+	</programme>
+	<programme channel="jcom_2_1024_32736" start="20250128085500 +0000" stop="20250128085700 +0000">
+		<title>桜島　噴煙を走る稲妻</title>
+		<desc>火山の撮影をライフワークにしているカメラマンが噴煙の中を走る稲妻を狙う。</desc>
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE0-011-400x400.png" />
+	</programme>
+	<programme channel="jcom_2_1024_32736" start="20250128085700 +0000" stop="20250128090000 +0000">
+		<title>さわやか自然百景3min．（1）北海道　網走湖畔の森[字]</title>
+		<desc>北海道東部の網走湖。湖畔には湿地が広がり、水辺を好む木々が森を作っている。早春、恋の季節を迎えたエゾモモンガが活動。湖の氷がとけると、色とりどりの花が咲く。</desc>
 		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE0-011-400x400.png" />
 	</programme>
 	<programme channel="jcom_2_1024_32736" start="20250128090000 +0000" stop="20250128091000 +0000">
@@ -904,17 +924,17 @@
 		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE0-011-400x400.png" />
 	</programme>
 	<programme channel="jcom_2_1024_32736" start="20250128091000 +0000" stop="20250128100000 +0000">
-		<title>首都圏ネットワーク[字]</title>
-		<desc>首都圏の「リアルがみえる」50分間！最新ニュースを深掘り、経済や防災など暮らしに役立つ地域情報も満載。あなたの知りたい“いま”に総力取材で迫ります！</desc>
+		<title>首都圏ネットワーク　交差点で道路陥没　トラックが転落　埼玉・八潮[字]</title>
+		<desc>千葉で11例目の鳥インフルエンザ確認　卵の価格に影響は？▼モノよりコトを重視　中国の春節休暇で意外な訪問場所▼旧米軍宿舎取り壊しへ　東京から平和を考える</desc>
 		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE0-011-400x400.png" />
 	</programme>
 	<programme channel="jcom_2_1024_32736" start="20250128100000 +0000" stop="20250128103000 +0000">
-		<title>NHKニュース7[二][字]</title>
-		<desc>きょうもあすもあなたと一緒に　日本、そして世界のこれからを考える確かな情報を届けます。</desc>
+		<title>NHKニュース7　36人死亡の京アニ放火殺人事件　被告の死刑確定[二][字]</title>
+		<desc>京アニ放火殺人事件　青葉被告が控訴取り下げ死刑確定▽異例の10時間超　フジテレビ会見受けスポンサー各社の対応は▽就任1週間トランプ大統領　ロシアとの関係に変化は</desc>
 		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE0-011-400x400.png" />
 	</programme>
 	<programme channel="jcom_2_1024_32736" start="20250128103000 +0000" stop="20250128105700 +0000">
-		<title>クローズアップ現代　感染症に異変？！　インフルエンザ“過去最多”の裏で何が[字]</title>
+		<title>クローズアップ現代　感染症に異変！？　インフルエンザ“過去最多”の裏で何が[字]</title>
 		<desc>「救急車が足りない」「薬がきれそう」…各地の医療現場で上がる悲鳴。インフルエンザ“過去最多”の裏ではさまざまな感染症が同時に広がるという異変も起きている。</desc>
 		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE0-011-400x400.png" />
 	</programme>
@@ -1049,38 +1069,23 @@
 		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE0-011-400x400.png" />
 	</programme>
 	<programme channel="jcom_2_1024_32736" start="20250129005500 +0000" stop="20250129010000 +0000">
-		<title>みんなの体操[解][字]</title>
-		<desc>【出演】岡本美佳，舘野伶奈，戸塚寛子，杉井勇介</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE0-011-400x400.png" />
-	</programme>
-	<programme channel="jcom_2_1024_32736" start="20250129010000 +0000" stop="20250129010500 +0000">
 		<title>ニュース・気象情報[字]</title>
 		<desc> </desc>
 		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE0-011-400x400.png" />
 	</programme>
-	<programme channel="jcom_2_1024_32736" start="20250129010500 +0000" stop="20250129015500 +0000">
-		<title>キャッチ！世界のトップニュース　アメリカ　ロシア[二][字]</title>
-		<desc>世界の放送局が伝える注目のニュースを放送　　キャスター：別府正一郎／中川栞</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE0-011-400x400.png" />
-	</programme>
-	<programme channel="jcom_2_1024_32736" start="20250129015500 +0000" stop="20250129020000 +0000">
-		<title>みんなのうた「ようかんマーチ」／「花よりも花を咲かせる土になれ」</title>
-		<desc>「ようかんマーチ」うた：水森かおり　アニメ：若井麻奈美／「花よりも花を咲かせる土になれ」うた：ベリーグッドマン　アニメ：よこすかれいこ</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE0-011-400x400.png" />
-	</programme>
-	<programme channel="jcom_2_1024_32736" start="20250129020000 +0000" stop="20250129020500 +0000">
-		<title>ニュース・気象情報[字]</title>
+	<programme channel="jcom_2_1024_32736" start="20250129010000 +0000" stop="20250129025000 +0000">
+		<title>国会中継「代表質問」　〜参議院本会議場から中継〜[字]</title>
 		<desc> </desc>
 		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE0-011-400x400.png" />
 	</programme>
-	<programme channel="jcom_2_1024_32736" start="20250129020500 +0000" stop="20250129023000 +0000">
-		<title>すてきにハンドメイド　自由に楽しく！針と糸で遊ぶ　“縫い縫い”[字]</title>
-		<desc>キルト作家の岡野栄子さんが提案する『縫い縫い』。好きな布やはぎれを重ねて自由にチクチク。はじめてさんも楽しめる！お笑い芸人・見取り図のリリーさんも初挑戦！</desc>
+	<programme channel="jcom_2_1024_32736" start="20250129025000 +0000" stop="20250129025300 +0000">
+		<title>さわやか自然百景3min．（2）神奈川　大磯丘陵[字]</title>
+		<desc>相模湾に沿って連なる神奈川県の大磯丘陵。森に覆われた丘陵は野鳥の楽園。春、子育てを始めたのはエナガ。一方、マヒワは北へ向う日に備えて、小さな花を夢中で食べる。</desc>
 		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE0-011-400x400.png" />
 	</programme>
-	<programme channel="jcom_2_1024_32736" start="20250129023000 +0000" stop="20250129025400 +0000">
-		<title>ひるまえほっと[字]</title>
-		<desc>▽くらしを豊かに楽しくする生活情報・身近な地域の魅力を発見する特集▽かんたんごはん</desc>
+	<programme channel="jcom_2_1024_32736" start="20250129025300 +0000" stop="20250129025400 +0000">
+		<title>巡る日本絶景　和歌山・串本[SS]</title>
+		<desc> </desc>
 		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE0-011-400x400.png" />
 	</programme>
 	<programme channel="jcom_2_1024_32736" start="20250129025400 +0000" stop="20250129030000 +0000">
@@ -1214,8 +1219,8 @@
 		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE0-011-400x400.png" />
 	</programme>
 	<programme channel="jcom_2_1024_32736" start="20250129120000 +0000" stop="20250129130000 +0000">
-		<title>ニュースウオッチ9[二][字]</title>
-		<desc>夜9時。複雑に課題が絡み合う「いま」。そのニュースの本質は何か。専門性を持つ3人のキャスターと国内外での徹底取材で、より「深く」迫ります。▽スポーツは速報で！</desc>
+		<title>ニュースウオッチ9▽国会で与野党論戦続く▽独白ロコ・ソラーレの10年[二][字]</title>
+		<desc>▽国会で与野党論戦続く▽「終末時計」進むのか・人類最後の日までは▽国連キーマン語る軍縮▽メンバーが語るロコ・ソラーレの10年　【キャスター】広内仁ほか</desc>
 		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE0-011-400x400.png" />
 	</programme>
 	<programme channel="jcom_2_1024_32736" start="20250129130000 +0000" stop="20250129134500 +0000">
@@ -1249,8 +1254,8 @@
 		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE0-011-400x400.png" />
 	</programme>
 	<programme channel="jcom_2_1024_32736" start="20250129143000 +0000" stop="20250129144000 +0000">
-		<title>時論公論　【出演】NHK解説委員[字]</title>
-		<desc>▽混沌（とん）とした時代、次々と押し寄せるニュースの裏に、何があるのか？“明日を生きる指針”を提供する解説番組。</desc>
+		<title>時論公論　車輪・車軸の組み立て不正　鉄道事業者に求められることは[字]</title>
+		<desc>去年7月のJR貨物の脱線事故をきっかけに、91の鉄道事業者が車輪と車軸を組み立てる際にデータ改ざんなどの不正をしていたことがわかりました。鉄道の安全を考えます。</desc>
 		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE0-011-400x400.png" />
 	</programme>
 	<programme channel="jcom_2_1024_32736" start="20250129144000 +0000" stop="20250129144500 +0000">
@@ -3391,7 +3396,7 @@
 		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7E77-031-400x400.png" />
 	</programme>
 	<programme channel="jcom_2_24632_32375" start="20250129123000 +0000" stop="20250129125500 +0000">
-		<title>NewsLink</title>
+		<title>NewsLink▽芸者たちが運営するカフェバーが箱根にオープン</title>
 		<desc>▽県内ニュース▽神奈川県内のきょうの出来事▽天気予報</desc>
 		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7E77-031-400x400.png" />
 	</programme>
@@ -4179,7 +4184,7 @@
 		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7E27-031-400x400.png" />
 	</programme>
 	<programme channel="jcom_2_29752_32295" start="20250129090000 +0000" stop="20250129093000 +0000">
-		<title>TVショッピング</title>
+		<title>TVショッピング・ダイレクトテレショップ[S]</title>
 		<desc> </desc>
 		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7E27-031-400x400.png" />
 	</programme>
@@ -4510,14 +4515,14 @@
 		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE2-041-400x400.png" />
 	</programme>
 	<programme channel="jcom_2_1040_32738" start="20250128065000 +0000" stop="20250128100000 +0000">
-		<title>every.[字] 鈴江奈々&amp;森圭介がきょうを分かりやすく</title>
-		<desc>会長・社長辞任のフジＣＭ中止企業の対応は▽春節の大型連休開始ペット１億匹はどこへ▽街まるごとホテルに商店街に人を呼び込め▽のり高騰で恵方巻きは</desc>
+		<title>every.[字]フジテレビ異例１０時間超の会見…余波さらに▼道路陥没でトラック転落</title>
+		<desc>▼トップ辞任も余波拡大“やり直し会見”検証▼交差点で突然“巨大な穴”運転手が中に▼のり記録的高値…おにぎり＆恵方巻きピンチ▼春節連休スタート…ペット１億匹どこへ</desc>
 		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE2-041-400x400.png" />
 	</programme>
 	<programme channel="jcom_2_1040_32738" start="20250128100000 +0000" stop="20250128105400 +0000">
 		<title>オモウマい店[字]【香川】全面おかず!!牛肉肉肉肉肉うどん【愛媛】野菜詰め放題０円!?</title>
 		<desc>ちくわ天プレゼント＆無差別タダ!!あげたい店主SP!100円めし(秘)黄金だし／麺を見せたらハレンチ！？全面さしみうどん＆マツタケ１本うどん／エキサイト無差別タダ！</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE2-041-400x400.png" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/sirc/380000/388767/image/56f3c230fcb0d8f1537e753bd9e0ec63.jpg" />
 	</programme>
 	<programme channel="jcom_2_1040_32738" start="20250128105400 +0000" stop="20250128110000 +0000">
 		<title>まだまだオモウマい店[字]</title>
@@ -4636,8 +4641,8 @@
 		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE2-041-400x400.png" />
 	</programme>
 	<programme channel="jcom_2_1040_32738" start="20250129045500 +0000" stop="20250129065000 +0000">
-		<title>情報ライブ ミヤネ屋[字]</title>
-		<desc>ニュース・事件・芸能・スポーツ・最新トレンドに至るまでを、宮根誠司が分かりやすく伝えます!</desc>
+		<title>ミヤネ屋【▽北陸など大雪警戒▽春節で中国人観光客が日本に！▽食材高騰続く】[字]</title>
+		<desc>▽寒気襲来！北陸・北日本で大雪に警戒▽春節で中国人観光客が続々日本へ…楽しみ方に変化も▽食材高騰続く中…大人気の青果店“行列のワケ”＆生産者の新たな取り組み</desc>
 		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE2-041-400x400.png" />
 	</programme>
 	<programme channel="jcom_2_1040_32738" start="20250129065000 +0000" stop="20250129100000 +0000">
@@ -5437,7 +5442,7 @@ by.Joe Henderson</desc>
 		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE3-061-400x400.png" />
 	</programme>
 	<programme channel="jcom_2_1048_32739" start="20250128064900 +0000" stop="20250128100000 +0000">
-		<title>Nスタ[字]　ホラン千秋、井上貴博が、いま、いちばん大切なことを、話して伝えます。</title>
+		<title>Nスタ[字]救出活動中!突然道路が陥没▼「爆買い」から「爆入学」へ▼フジ会見余波</title>
 		<desc>フジテレビ会見の余波▽春節スタートも異変「爆買い」に勢いなし　マグネット爆売れナゼ▽若者の街が大激変!ハチ公改札移設で混乱▽豊昇龍横綱昇進へ!</desc>
 		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE3-061-400x400.png" />
 	</programme>
@@ -5464,8 +5469,7 @@ by.Joe Henderson</desc>
 	<programme channel="jcom_2_1048_32739" start="20250128145600 +0000" stop="20250128152600 +0000">
 		<title>ドラマストリーム「地獄の果てまで連れていく」　第3話「隣の殺人鬼」[字][デ]</title>
 		<desc>紗智子の策略により麗奈のスキャンダル流出で大炎上!
-麗奈の愛娘・こころを手にかけるチャンスを伺う紗智子だが果たして…!
-</desc>
+麗奈の愛娘・こころを手にかけるチャンスを伺う紗智子だが果たして…!</desc>
 		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE3-061-400x400.png" />
 	</programme>
 	<programme channel="jcom_2_1048_32739" start="20250128152600 +0000" stop="20250128155500 +0000">
@@ -5521,8 +5525,10 @@ by.Joe Henderson</desc>
 		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE3-061-400x400.png" />
 	</programme>
 	<programme channel="jcom_2_1048_32739" start="20250128230000 +0000" stop="20250129005500 +0000">
-		<title>ラヴィット!　日本でいちばん明るい朝番組[字]</title>
-		<desc>今の暮らしが10倍楽しくなるライフアイデア発見バラエティ!すぐに手が届く“楽しい!"をお届けします▼MC川島明(麒麟)&amp;田村真子(TBSアナウンサー)　</desc>
+		<title>ラヴィット【東ブクロ両親に別荘を買う企画第4弾&amp;美 少年 佐藤龍我が初登場!】[字]</title>
+		<desc>東ブクロ両親に別荘を買う企画 第4弾
+史上最高に富士山が見える広々4LDKマンションを内見▽美 少年 佐藤龍我が初登場!
+岩崎&amp;小田&amp;さらば&amp;みなみかわ生出演!</desc>
 		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE3-061-400x400.png" />
 	</programme>
 	<programme channel="jcom_2_1048_32739" start="20250129005500 +0000" stop="20250129012500 +0000">
@@ -5542,7 +5548,7 @@ by.Joe Henderson</desc>
 	</programme>
 	<programme channel="jcom_2_1048_32739" start="20250129064900 +0000" stop="20250129100000 +0000">
 		<title>Nスタ[字]　ホラン千秋、井上貴博が、いま、いちばん大切なことを、話して伝えます。</title>
-		<desc>「わかり合えないことをわかり合えている」「お互い忖度せず、正直に自分を出すことができる」そんな2人が、いま、いちばん大切なことを、生の声で話して伝えます。</desc>
+		<desc>強烈寒気で大雪に警戒　週末の東京に雪降る?▽“手取り増"の秘策「第三の賃上げ」とは▽トラックが穴に転落道路陥没…その時何が▽恵方巻き1000円時代　ほか</desc>
 		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE3-061-400x400.png" />
 	</programme>
 	<programme channel="jcom_2_1048_32739" start="20250129100000 +0000" stop="20250129125800 +0000">
@@ -5996,8 +6002,8 @@ by.Joe Henderson</desc>
 		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE6-071-400x400.png" />
 	</programme>
 	<programme channel="jcom_2_1072_32742" start="20250128130000 +0000" stop="20250128135800 +0000">
-		<title>WBS[字]</title>
-		<desc>「あなたと世界をつなぐ経済ニュース番組」として、より分かりやすく、より深く、明日からの仕事や生活に役立つ情報をお伝えします。</desc>
+		<title>WBS【激震!ディープシーク・ショック…中国製ＡＩの実力とリスクを緊急取材】[字]</title>
+		<desc>▼エヌビディア株急落「トヨタ２つ分」時価総額吹き飛ぶ…ディープシークはＡＩ勢力図を変えるか▼コンビニ一部店舗から雑誌が消える…なぜ▼シニア人材活用の最前線</desc>
 		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE6-071-400x400.png" />
 	</programme>
 	<programme channel="jcom_2_1072_32742" start="20250128135800 +0000" stop="20250128140600 +0000">
@@ -6511,7 +6517,7 @@ MC純烈とゲストの軽快なトーク＆パチンコ真剣勝負を繰り広
 	<programme channel="jcom_2_1056_32740" start="20250128100000 +0000" stop="20250128120000 +0000">
 		<title>逮捕の瞬間!警察24時　密着!捜査の最前線　空と地上大追跡SP[字]</title>
 		<desc>トレーディングカードを狙う窃盗犯!残された痕跡から導き出すベテラン刑事の眼力&amp;心理戦のプロが職務質問で炙り出す犯罪の全貌!全力で闘う全国の警察官に密着!</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE4-081-400x400.png" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/sirc/380000/388826/image/3b0994ca6cc7afad745f506bd9a6438d.jpg" />
 	</programme>
 	<programme channel="jcom_2_1056_32740" start="20250128120000 +0000" stop="20250128125400 +0000">
 		<title>アイシー〜瞬間記憶捜査・柊班〜▼不可解な連続飛び降り〜柊班が謎に迫る　#02[字][解]</title>
@@ -6594,7 +6600,7 @@ MC純烈とゲストの軽快なトーク＆パチンコ真剣勝負を繰り広
 		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE4-081-400x400.png" />
 	</programme>
 	<programme channel="jcom_2_1056_32740" start="20250129005000 +0000" stop="20250129023000 +0000">
-		<title>ノンストップ![字][デ]</title>
+		<title>ノンストップ!【衝撃スノボ日本人世界初快挙!▽毛糸品薄編み物大人気▽木村屋】[字][デ]</title>
 		<desc>MCバナナマン設楽統▼今役立つ生活情報&amp;バズな話題&amp;気になるあの人&amp;旬なエンタメ情報を独自な目線で!▼本音トーク!せきららスタジオ▼天気予報</desc>
 		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE4-081-400x400.png" />
 	</programme>
@@ -6604,8 +6610,8 @@ MC純烈とゲストの軽快なトーク＆パチンコ真剣勝負を繰り広
 		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE4-081-400x400.png" />
 	</programme>
 	<programme channel="jcom_2_1056_32740" start="20250129025000 +0000" stop="20250129045000 +0000">
-		<title>ぽかぽか[字]</title>
-		<desc>ハライチ&amp;神田愛花がお届けする生バラエティ▽勝手なイメージ「〇〇っぽい」で迫る、ゲストの素顔・業界の裏側&amp;裏話▽曜日オリジナル企画も!楽しいお昼を</desc>
+		<title>ぽかぽか【離島出身の仲良しコンビ!夏川りみ&amp;元ちとせが生トーク】[字]</title>
+		<desc>離島出身の仲良しシンガーが語るブレイクまでの苦労&amp;離島生活あるある&amp;元横綱もビックリ?酒豪伝説▽鹿児島の人気お土産でクイズ&amp;この「涙そうそう」誰が歌ってる?</desc>
 		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE4-081-400x400.png" />
 	</programme>
 	<programme channel="jcom_2_1056_32740" start="20250129045000 +0000" stop="20250129054800 +0000">
@@ -7276,7 +7282,7 @@ MC純烈とゲストの軽快なトーク＆パチンコ真剣勝負を繰り広
 	</programme>
 	<programme channel="jcom_2_23608_32391" start="20250128230000 +0000" stop="20250128233000 +0000">
 		<title>HISTORY</title>
-		<desc> </desc>
+		<desc>KAWAJIRI FOUNDATION/福井工務店/INOTEM/ 田中組/sIgNaL/ラブクローバー</desc>
 		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7E87-091-400x400.png" />
 	</programme>
 	<programme channel="jcom_2_23608_32391" start="20250128233000 +0000" stop="20250129000000 +0000">
@@ -7370,7 +7376,7 @@ MC純烈とゲストの軽快なトーク＆パチンコ真剣勝負を繰り広
 		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7E87-091-400x400.png" />
 	</programme>
 	<programme channel="jcom_2_23608_32391" start="20250129090000 +0000" stop="20250129100000 +0000">
-		<title>堀潤 Live Junction</title>
+		<title>堀潤 Live Junction ★最新防災トレンドは？今日から防災イベント開催</title>
 		<desc>ジャーナリスト堀潤が独自目線で伝える夕方の報道番組▼みたらし加奈と茂木健一郎と馬渕磨理子が出演！キャスター・豊崎由里絵／気象予報士・高安奈緒子</desc>
 		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7E87-091-400x400.png" />
 	</programme>
@@ -7603,22 +7609,22 @@ MC純烈とゲストの軽快なトーク＆パチンコ真剣勝負を繰り広
 	<programme channel="jcom_200_00052_0" start="20250128060000 +0000" stop="20250128070000 +0000">
 		<title>中国ドラマ「尚食〜美味なる恋は紫禁城で〜」　#38▼ウー・ジンイエン</title>
 		<desc>瓔珞のキャスト＆スタッフが再集結！極上の美食とロマンスに酔いしれる宮廷サクセスストーリー！明の時代、宮廷の料理人と未来の皇帝が紫禁城で巡り合い運命の恋に落ちる―</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14668380/image/58bf43a5299074c1143d9aa7698cc518.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-0000-00052-400x400.png" />
 	</programme>
 	<programme channel="jcom_200_00052_0" start="20250128070000 +0000" stop="20250128073000 +0000">
 		<title>テレビショッピング</title>
 		<desc />
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14668381/image/9dbbab7890d12821942e8d90f56fd5a9.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-0000-00052-400x400.png" />
 	</programme>
 	<programme channel="jcom_200_00052_0" start="20250128073000 +0000" stop="20250128083000 +0000">
 		<title>韓◆「天気がよければ会いにゆきます」#10▼パク・ミニョン、ソ・ガンジュン</title>
 		<desc>都会に疲れ帰ってきたヘウォンと、書店を営む元同級生ウンソプ。それぞれ秘密を抱える2人が過去の傷を労り合いながら紡ぐ、優しく静かなヒーリング・ラブストーリー。</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14668382/image/3c2e6978b29074f1c0368e5baf89cc29.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-0000-00052-400x400.png" />
 	</programme>
 	<programme channel="jcom_200_00052_0" start="20250128083000 +0000" stop="20250128090000 +0000">
 		<title>テレビショッピング</title>
 		<desc />
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14668383/image/2dda87ffd7d1896a447f2633cdf842bb.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-0000-00052-400x400.png" />
 	</programme>
 	<programme channel="jcom_200_00052_0" start="20250128090000 +0000" stop="20250128093000 +0000">
 		<title>ドライブインらーめん探訪オン・ザ・神奈川ロード2</title>
@@ -8258,7 +8264,7 @@ MC純烈とゲストの軽快なトーク＆パチンコ真剣勝負を繰り広
 	<programme channel="jcom_200_00021_0" start="20250128063000 +0000" stop="20250128070000 +0000">
 		<title>テレビショッピング</title>
 		<desc>テレビショッピングをお送りします。</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14730690/image/c2e212584ef37c9fa90b594a981fc80b.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-0000-00021-400x400.png" />
 	</programme>
 	<programme channel="jcom_200_00021_0" start="20250128070000 +0000" stop="20250128073000 +0000">
 		<title>泉秀樹の歴史を歩く　▽唐人お吉の幕末維新（前編）</title>
@@ -8268,7 +8274,7 @@ MC純烈とゲストの軽快なトーク＆パチンコ真剣勝負を繰り広
 	<programme channel="jcom_200_00021_0" start="20250128073000 +0000" stop="20250128080000 +0000">
 		<title>テレビショッピング</title>
 		<desc>テレビショッピングをお送りします。</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14730692/image/9331d7b65389c2c7b9e9fdd393e7b47d.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-0000-00021-400x400.png" />
 	</programme>
 	<programme channel="jcom_200_00021_0" start="20250128080000 +0000" stop="20250128083000 +0000">
 		<title>お天気情報</title>
@@ -8278,12 +8284,12 @@ MC純烈とゲストの軽快なトーク＆パチンコ真剣勝負を繰り広
 	<programme channel="jcom_200_00021_0" start="20250128083000 +0000" stop="20250128084500 +0000">
 		<title>おまつりニッポン（北海道）ほんべつ豆まかナイト</title>
 		<desc>「日本一の豆のまち」と言われる本別町。寒さを吹き飛ばす熱く激しい節分イベントを紹介します。約2トンの豆が飛び交う「激！豆まき」は必見です。</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14730694/image/5ff91c84961fe175368e00cffd03f328.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-0000-00021-400x400.png" />
 	</programme>
 	<programme channel="jcom_200_00021_0" start="20250128084500 +0000" stop="20250128085000 +0000">
 		<title>一生に一度は見たい北海道の絶景利尻・礼文</title>
 		<desc>北海道の各地で撮影したドローン映像を音楽とともにお届け！美しい空中散歩をお楽しみください。</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14730695/image/96be2b2ce025b4de6058ebb634f207b6.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-0000-00021-400x400.png" />
 	</programme>
 	<programme channel="jcom_200_00021_0" start="20250128085000 +0000" stop="20250128090000 +0000">
 		<title>インフォメーション</title>
@@ -9006,7 +9012,7 @@ MC純烈とゲストの軽快なトーク＆パチンコ真剣勝負を繰り広
 		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-101-400x400.png" />
 	</programme>
 	<programme channel="jcom_3_101_4" start="20250128193000 +0000" stop="20250128200000 +0000">
-		<title>クローズアップ現代　感染症に異変?!　インフルエンザ“過去最多”の裏で何が</title>
+		<title>クローズアップ現代　感染症に異変!?　インフルエンザ“過去最多”の裏で何が</title>
 		<desc>「救急車が足りない」「薬がきれそう」…各地の医療現場で上がる悲鳴。インフルエンザ“過去最多”の裏ではさまざまな感染症が同時に広がるという異変も起きている。</desc>
 		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-101-400x400.png" />
 	</programme>
@@ -9769,8 +9775,8 @@ MC純烈とゲストの軽快なトーク＆パチンコ真剣勝負を繰り広
 		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-141-400x400.png" />
 	</programme>
 	<programme channel="jcom_3_141_4" start="20250129095800 +0000" stop="20250129105500 +0000">
-		<title>深層NEWS▽今一番知りたいニュースをどこよりも早く、深くお届けします</title>
-		<desc>世界最前線の"生の息づかい"をお届け。様々なニュースの深掘りはもちろん、速報ニュースも。ますます目が離せない"NEWS討論番組"にご期待ください。</desc>
+		<title>深層NEWS▽中国“春節大移動"も訪日爆買いに陰り。相次ぐスピード死刑判決ワケ</title>
+		<desc>中国“春節大移動"も訪日爆買いに陰り。日本人襲撃事件で相次ぐスピード死刑判決。幕引き急ぐ習近平政権の思惑は。経済低迷で節約志向広がる中で“強引徴税"の実態とは。</desc>
 		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-141-400x400.png" />
 	</programme>
 	<programme channel="jcom_3_141_4" start="20250129105500 +0000" stop="20250129110000 +0000">
@@ -9820,7 +9826,7 @@ MC純烈とゲストの軽快なトーク＆パチンコ真剣勝負を繰り広
 		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-141-400x400.png" />
 	</programme>
 	<programme channel="jcom_3_141_4" start="20250129153000 +0000" stop="20250129160000 +0000">
-		<title>アニメ　異修羅</title>
+		<title>アニメ　異修羅　第十六話 微塵嵐アトラゼク・前篇</title>
 		<desc>全員が最強。全員が英雄。一人だけが、勇者。</desc>
 		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-141-400x400.png" />
 	</programme>
@@ -11357,9 +11363,9 @@ MC純烈とゲストの軽快なトーク＆パチンコ真剣勝負を繰り広
 		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-171-400x400.png" />
 	</programme>
 	<programme channel="jcom_3_171_4" start="20250128120000 +0000" stop="20250128130000 +0000">
-		<title>日経NEXT【今から間に合う「トランプ銘柄」は?/ラーメン店生き残りの秘策】</title>
-		<desc>▼市場注目トランプ発言…イマ買いの株は?
-▼戦争嫌いの大統領…停戦で復興需要も?
+		<title>日経NEXT【中国製AIで市場動揺/今から間に合う「トランプ銘柄」は？】</title>
+		<desc>▼エヌビディア急落…ディープシークとは?
+▼市場注目トランプ発言…イマ買いの株は?
 ▼倒産最多ラーメン店…高騰食材を避けろ!?
 ▼上履きトップ企業…大人向け開拓?</desc>
 		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-171-400x400.png" />
@@ -11375,8 +11381,8 @@ MC純烈とゲストの軽快なトーク＆パチンコ真剣勝負を繰り広
 		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-171-400x400.png" />
 	</programme>
 	<programme channel="jcom_3_171_4" start="20250128140000 +0000" stop="20250128150000 +0000">
-		<title>WBS</title>
-		<desc>「あなたと世界をつなぐ経済ニュース番組」として、より分かりやすく、より深く、明日からの仕事や生活に役立つ情報をお伝えします。</desc>
+		<title>WBS【激震!ディープシーク・ショック…中国製ＡＩの実力とリスクを緊急取材】</title>
+		<desc>▼エヌビディア株急落「トヨタ２つ分」時価総額吹き飛ぶ…ディープシークはＡＩ勢力図を変えるか▼コンビニ一部店舗から雑誌が消える…なぜ▼シニア人材活用の最前線</desc>
 		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-171-400x400.png" />
 	</programme>
 	<programme channel="jcom_3_171_4" start="20250128150000 +0000" stop="20250128153000 +0000">
@@ -11940,8 +11946,8 @@ MC純烈とゲストの軽快なトーク＆パチンコ真剣勝負を繰り広
 		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-181-400x400.png" />
 	</programme>
 	<programme channel="jcom_3_181_4" start="20250128102500 +0000" stop="20250128110000 +0000">
-		<title>[生]プライムオンラインTODAY</title>
-		<desc>あなたの回りの気になるニュースを厳選してピックアップ。政治・経済・世界情勢から身の回りのあれこれ、地域の出来事まで。30分で効率よく情報をゲット!◆4K制作番組</desc>
+		<title>[生]プライムオンラインTODAY▼10時間超に及ぶ異例の会見</title>
+		<desc>【フジテレビ会見】港社長と嘉納会長が辞任「人権への認識が不足していた」▽会見受け村上総務相が早期調査を要請「今後も説明責任果たすべき」▽街の反応◆4K制作番組</desc>
 		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-181-400x400.png" />
 	</programme>
 	<programme channel="jcom_3_181_4" start="20250128110000 +0000" stop="20250128125500 +0000">
@@ -12811,7 +12817,7 @@ MC純烈とゲストの軽快なトーク＆パチンコ真剣勝負を繰り広
 	<programme channel="jcom_3_192_4" start="20250129173500 +0000" stop="20250129180000 +0000">
 		<title>[初]オールブラックス〜新時代の幕開け〜　#11(字幕版)[終]</title>
 		<desc>2027年ワールドカップに向け新ヘッドコーチにスコット・ロバートソンが就任し、新たなスタートを切ったオールブラックス。再び世界最強へ、その舞台裏を追う。</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-192-400x400.png" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/sirc/70370000/70376033/image/365546c31292d5f9be52369b91c1a00c.jpg" />
 	</programme>
 	<programme channel="jcom_3_192_4" start="20250129180000 +0000" stop="20250129190000 +0000">
 		<title>天空の炎　オーロラ(字幕版)</title>
@@ -13565,8 +13571,8 @@ MC純烈とゲストの軽快なトーク＆パチンコ真剣勝負を繰り広
 		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-211-400x400.png" />
 	</programme>
 	<programme channel="jcom_3_211_4" start="20250129120000 +0000" stop="20250129130000 +0000">
-		<title>[生]報道ライブ インサイドOUT[N][デ]</title>
-		<desc>国内外の政治・経済や医療・健康・スポーツなどをテーマに、「いま知りたいこと」を「より分かりやすく」お伝えします。</desc>
+		<title>[生]インサイドOUT　トランプ氏ロシアに制裁圧力　ウクライナ停戦の行方は?[N][デ]</title>
+		<desc>トランプ米政権2期目が始動。ウクライナ情勢は停戦に向けて動き出すのか?トランプ氏は露への圧力強化で停戦交渉入りを求めているが、プーチン氏は応じるのか?</desc>
 		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-211-400x400.png" />
 	</programme>
 	<programme channel="jcom_3_211_4" start="20250129130000 +0000" stop="20250129140000 +0000">
@@ -14777,8 +14783,8 @@ MC純烈とゲストの軽快なトーク＆パチンコ真剣勝負を繰り広
 		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-000b-141-400x400.png" />
 	</programme>
 	<programme channel="jcom_3_141_11" start="20250129095800 +0000" stop="20250129105500 +0000">
-		<title>[4K]深層ＮＥＷＳ▽今一番知りたいニュースをどこよりも早く、深くお届けします</title>
-		<desc>世界最前線の"生の息づかい"をお届け。様々なニュースの深掘りはもちろん、速報ニュースも。ますます目が離せない"ＮＥＷＳ討論番組"にご期待ください。</desc>
+		<title>[4K]深層ＮＥＷＳ▽中国“春節大移動”も訪日爆買いに陰り。相次ぐスピード死刑判決ワケ</title>
+		<desc>中国“春節大移動”も訪日爆買いに陰り。日本人襲撃事件で相次ぐスピード死刑判決。幕引き急ぐ習近平政権の思惑は。経済低迷で節約志向広がる中で“強引徴税”の実態とは。</desc>
 		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-000b-141-400x400.png" />
 	</programme>
 	<programme channel="jcom_3_141_11" start="20250129105500 +0000" stop="20250129110000 +0000">
@@ -14828,7 +14834,7 @@ MC純烈とゲストの軽快なトーク＆パチンコ真剣勝負を繰り広
 		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-000b-141-400x400.png" />
 	</programme>
 	<programme channel="jcom_3_141_11" start="20250129153000 +0000" stop="20250129160000 +0000">
-		<title>アニメ　異修羅</title>
+		<title>アニメ　異修羅　第十六話 微塵嵐アトラゼク・前篇</title>
 		<desc>全員が最強。全員が英雄。一人だけが、勇者。</desc>
 		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-000b-141-400x400.png" />
 	</programme>
@@ -16186,9 +16192,9 @@ MC純烈とゲストの軽快なトーク＆パチンコ真剣勝負を繰り広
 		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-000b-171-400x400.png" />
 	</programme>
 	<programme channel="jcom_3_171_11" start="20250128120000 +0000" stop="20250128130000 +0000">
-		<title>日経NEXT【今から間に合う「トランプ銘柄」は？/ラーメン店生き残りの秘策】</title>
-		<desc>▼市場注目トランプ発言…イマ買いの株は？
-▼戦争嫌いの大統領…停戦で復興需要も？
+		<title>日経NEXT【中国製ＡＩで市場動揺/今から間に合う「トランプ銘柄」は？】</title>
+		<desc>▼エヌビディア急落…ディープシークとは？
+▼市場注目トランプ発言…イマ買いの株は？
 ▼倒産最多ラーメン店…高騰食材を避けろ!?
 ▼上履きトップ企業…大人向け開拓？</desc>
 		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-000b-171-400x400.png" />
@@ -16204,8 +16210,8 @@ MC純烈とゲストの軽快なトーク＆パチンコ真剣勝負を繰り広
 		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-000b-171-400x400.png" />
 	</programme>
 	<programme channel="jcom_3_171_11" start="20250128140000 +0000" stop="20250128150000 +0000">
-		<title>ＷＢＳ</title>
-		<desc>「あなたと世界をつなぐ経済ニュース番組」として、より分かりやすく、より深く、明日からの仕事や生活に役立つ情報をお伝えします。</desc>
+		<title>ＷＢＳ【激震！ディープシーク・ショック…中国製ＡＩの実力とリスクを緊急取材】</title>
+		<desc>▼エヌビディア株急落「トヨタ２つ分」時価総額吹き飛ぶ…ディープシークはＡＩ勢力図を変えるか▼コンビニ一部店舗から雑誌が消える…なぜ▼シニア人材活用の最前線</desc>
 		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-000b-171-400x400.png" />
 	</programme>
 	<programme channel="jcom_3_171_11" start="20250128150000 +0000" stop="20250128153000 +0000">
@@ -16721,8 +16727,8 @@ MC純烈とゲストの軽快なトーク＆パチンコ真剣勝負を繰り広
 		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-000b-181-400x400.png" />
 	</programme>
 	<programme channel="jcom_3_181_11" start="20250128102500 +0000" stop="20250128110000 +0000">
-		<title>[4K][生]プライムオンラインＴＯＤＡＹ</title>
-		<desc>あなたの回りの気になるニュースを厳選してピックアップ。政治・経済・世界情勢から身の回りのあれこれ、地域の出来事まで。30分で効率よく情報をゲット！◆４K制作番組</desc>
+		<title>[4K][生]プライムオンラインＴＯＤＡＹ▼10時間超に及ぶ異例の会見</title>
+		<desc>【フジテレビ会見】港社長と嘉納会長が辞任「人権への認識が不足していた」▽会見受け村上総務相が早期調査を要請「今後も説明責任果たすべき」▽街の反応◆４K制作番組</desc>
 		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-000b-181-400x400.png" />
 	</programme>
 	<programme channel="jcom_3_181_11" start="20250128110000 +0000" stop="20250128125500 +0000">
@@ -17675,12 +17681,12 @@ MC純烈とゲストの軽快なトーク＆パチンコ真剣勝負を繰り広
 	<programme channel="jcom_120_200_4" start="20250128050000 +0000" stop="20250128073000 +0000">
 		<title>[5.1]札束と寝る女神たち</title>
 		<desc>ポーランドで実際に起きた高級売春事件を基に、東欧のセックスワーカーの実態を描いて本国で大ヒットしたエロティックな衝撃作。［Ｒ１５＋相当］（２１年　ポーランド）</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14854053/image/f4dc3a205599e149d2b0243981c55a0a.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-0004-200-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_200_4" start="20250128073000 +0000" stop="20250128092000 +0000">
 		<title>[5.1]ＮＯＣＥＢＯ／ノセボ</title>
 		<desc>エヴァ・グリーン主演のホラーサスペンス。謎めいた乳母を雇ったことから幸せな一家の日常が軋んでゆく過程を不穏さ満載で描く。（２２年　アイルランド＝英）</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14854054/image/dd2f16ef9be51a037eaf4733c50a616e.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-0004-200-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_200_4" start="20250128092000 +0000" stop="20250128104500 +0000">
 		<title>アドベンチャー・カントリー　野生馬の叫び[吹]冬休み特別ロードショー版</title>
@@ -17880,17 +17886,17 @@ MC純烈とゲストの軽快なトーク＆パチンコ真剣勝負を繰り広
 	<programme channel="jcom_120_140_65406" start="20250128061000 +0000" stop="20250128070000 +0000">
 		<title>ＮＭＮ増量でリニューアル！大本命の美容サプリ　ハリーアップルネオ</title>
 		<desc>美容と健康／話題のダイエット商品や、注目の素材を使ったサプリメント、オーラルケア、フィットネス器具など美容と健康をサポートするアイテムをご紹介。</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14852519/image/2977922786cb38dddbd01f5846e0a847.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-140-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_140_65406" start="20250128070000 +0000" stop="20250128080000 +0000">
 		<title>独自成分がフラットに魅せる！ミラココリンクルール</title>
 		<desc>気になる小ジワをメイク効果でカモフラージュ！自然な仕上がりを長時間キープする化粧下地を２本セットで皆さまに。</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14852520/image/a434556dc0867009f3b16baa3303adc4.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-140-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_140_65406" start="20250128080000 +0000" stop="20250128090000 +0000">
 		<title>ＢＩＳＡＲＡ首振り機能付きハンズフリースタンドドライヤー</title>
 		<desc>椅子に座って“ながら作業”をするように髪が乾かせるドライヤー。リモコン付きで操作もラクラク。美髪モードも搭載。</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14852521/image/f3c570ace1fb99c082e1cc9e45e0c18d.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-140-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_140_65406" start="20250128090000 +0000" stop="20250128100000 +0000">
 		<title>国産ふっくら！うなぎの静岡焼き</title>
@@ -19423,7 +19429,7 @@ MC純烈とゲストの軽快なトーク＆パチンコ真剣勝負を繰り広
 	<programme channel="jcom_120_103_65406" start="20250128060000 +0000" stop="20250128070000 +0000">
 		<title>必殺仕事人　＃５４「呪い技　怪談怨霊攻め」</title>
 		<desc>シリーズ第１５作。「必殺と言えば仕事人」とされる看板作品！</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14922224/image/8a704a7790e473325b258eeb54a2e3b4.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-103-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_103_65406" start="20250128070000 +0000" stop="20250128072900 +0000">
 		<title>テレビショッピング</title>
@@ -19433,12 +19439,12 @@ MC純烈とゲストの軽快なトーク＆パチンコ真剣勝負を繰り広
 	<programme channel="jcom_120_103_65406" start="20250128072900 +0000" stop="20250128080000 +0000">
 		<title>韓ドラ◇二番目の夫　第５９話（字幕版）</title>
 		<desc>通販番組は韓屋ベーカリーとテグク製菓の対決形式で、ソナとジェギョンが争うことに。だが生放送直前にソナの控室が荒らされ、実演で使うマカロンの型が壊されてしまう。</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14922226/image/6f8e913740b0c4141c8f2fc318210584.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-103-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_103_65406" start="20250128080000 +0000" stop="20250128083000 +0000">
 		<title>その時がきた　＃９</title>
 		<desc>佐藤愛子原作、すべての女が迎えねばならぬ、その時。美貌の美容整形医の胸にうずきはじめた中年の焦燥と不安が、やがて夫と娘への背信へと...。</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14922227/image/72987de98088642e34de8f3bacb2719b.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-103-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_103_65406" start="20250128083000 +0000" stop="20250128090000 +0000">
 		<title>テレビショッピング</title>
@@ -20491,7 +20497,7 @@ MCもパネラーも“全員半人前”なトークバラエティ。</desc>
 	<programme channel="jcom_120_152_65406" start="20250127230000 +0000" stop="20250128070000 +0000">
 		<title>ストレートニュース</title>
 		<desc>▽国内外の最新・注目ニュース、お天気情報　▽内閣官房長官　午前の定例会見　▽速報は“ブレイキングニュース”</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14852781/image/70c57104aaeaf1e6e2ca03ead0ecd7fe.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-152-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_152_65406" start="20250128070000 +0000" stop="20250128120000 +0000">
 		<title>イブニングニュース</title>
@@ -20909,19 +20915,19 @@ CNNの首席法務アナリスト、ローラ・コーツが、アメリカと�
 		<title>[二]CNNニュースルーム</title>
 		<desc>日本語同時通訳付。
 アメリカと世界の最新ニュースを、アナリストの解説やコメンテーターの意見を交えながら、わかりやすくお伝えします。</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14853297/image/bba05d14d258d6171d7f9c23bc00e438.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-180-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_180_65406" start="20250128070000 +0000" stop="20250128080000 +0000">
 		<title>[二]CNNニュースルーム</title>
 		<desc>日本語同時通訳付。
 アメリカと世界の最新ニュースを、アナリストの解説やコメンテーターの意見を交えながら、わかりやすくお伝えします。</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14853298/image/63b2a57ece25745354cedc755c6f453a.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-180-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_180_65406" start="20250128080000 +0000" stop="20250128090000 +0000">
 		<title>[二]CNNニュースルーム</title>
 		<desc>日本語同時通訳付。
 アメリカと世界の最新ニュースを、アナリストの解説やコメンテーターの意見を交えながら、わかりやすくお伝えします。</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14853299/image/d9adf373f6b2ccd6b9f41a18da9fa993.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-180-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_180_65406" start="20250128090000 +0000" stop="20250128100000 +0000">
 		<title>[二]CNNニュースルーム</title>
@@ -21237,7 +21243,7 @@ CNNの首席法務アナリスト、ローラ・コーツが、アメリカと�
 	<programme channel="jcom_120_185_65406" start="20250128061500 +0000" stop="20250128071500 +0000">
 		<title>昼エクスプレス</title>
 		<desc>東京市場の午後の動きをノンストップで、注目銘柄や業種をタイムリーに解説。大引けを迎えた15時30分以降は1日の動きを振り返るとともにあすの投資のヒントを伝える。</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14853386/image/c4804039ee185c632fa345c07df28d28.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-185-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_185_65406" start="20250128071500 +0000" stop="20250128073000 +0000">
 		<title>きょうの株価　東証プライム　2本値</title>
@@ -21247,17 +21253,17 @@ CNNの首席法務アナリスト、ローラ・コーツが、アメリカと�
 	<programme channel="jcom_120_185_65406" start="20250128073000 +0000" stop="20250128082500 +0000">
 		<title>Europe Squawk Box</title>
 		<desc>取引中のヨーロッパ主要市場の動きや、注目ニュースを受けた市場の反応などをライブで伝える。英語放送。</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14853388/image/d4efb765e1be3ae2ce394946183b7e44.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-185-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_185_65406" start="20250128082500 +0000" stop="20250128083000 +0000">
 		<title>ビズ・レコ</title>
 		<desc>役に立つ、お得な情報をお届けします。</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14853389/image/2d76f4751492ea0809bdb0e272c57f81.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-185-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_185_65406" start="20250128083000 +0000" stop="20250128093000 +0000">
 		<title>昼エクスプレス(再)</title>
 		<desc>東京市場の午後の動きをノンストップで、注目銘柄や業種をタイムリーに解説。大引けを迎えた15:30以降は1日の動きを振り返るとともにあすの投資のヒントを伝える。再放送</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14853390/image/3c487e2a7d3aaaa888c526df0a12a7dc.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-185-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_185_65406" start="20250128093000 +0000" stop="20250128100000 +0000">
 		<title>TVショッピング</title>
@@ -21612,17 +21618,17 @@ CNNの首席法務アナリスト、ローラ・コーツが、アメリカと�
 	<programme channel="jcom_120_249_65406" start="20250128060000 +0000" stop="20250128070000 +0000">
 		<title>エリン・バーネット・アウトフロント[再]</title>
 		<desc>エリン・バーネットが鋭い取材力と経済の詳しい知識を生かしてキャスターを務めます。最新ニュースに加え、キー・パーソンへのインタビューなど、多彩な内容でお送りします</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14853590/image/f0203b7fff5b3de6a4b7e19d1fe44da3.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-249-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_249_65406" start="20250128070000 +0000" stop="20250128080000 +0000">
 		<title>ザ・シチュエーション・ルーム[再]</title>
 		<desc>トップクラスの頭脳と最新システムが現代を検証。CNN屈指のジャーナリスト、ウルフ・ブリッツァーが、有能なアナリストと最新システムでニュースの核心を徹底分析。</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14853591/image/132f6467c9bcfc202e36831cfa840527.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-249-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_249_65406" start="20250128080000 +0000" stop="20250128090000 +0000">
 		<title>アンダーソン・クーパー360°[再]</title>
 		<desc>米国の最新トピックを全方向(360゜)で一望。司会はアンダーソン・クーパー。政治・経済からポップカルチャーまでリアル・アメリカを体験できます。</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14853592/image/ba5aec0eac1c5541d0321f6a338180f6.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-249-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_249_65406" start="20250128090000 +0000" stop="20250128100000 +0000">
 		<title>エリン・バーネット・アウトフロント[再]</title>
@@ -21867,7 +21873,7 @@ CNNの首席法務アナリスト、ローラ・コーツが、アメリカと�
 	<programme channel="jcom_120_102_65406" start="20250128060000 +0000" stop="20250128090000 +0000">
 		<title>Late　Afternoon　News</title>
 		<desc>最新のニュースを24時間ノンストップでお伝えする日本テレビのニュース専門チャンネル「日テレNEWS24・Late Afternoon News」</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14854174/image/afb2e74a6a08238078767d490ec9c100.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-102-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_102_65406" start="20250128090000 +0000" stop="20250128120000 +0000">
 		<title>Evening　News</title>
@@ -22112,22 +22118,22 @@ CNNの首席法務アナリスト、ローラ・コーツが、アメリカと�
 	<programme channel="jcom_120_257_65534" start="20250128063000 +0000" stop="20250128070000 +0000">
 		<title>[英]ビジネストゥデイ</title>
 		<desc>ロンドンをはじめ世界各国から、最新のビジネスニュースや最新情報に基づいた深い分析を届ける。</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14853745/image/3c8b8ba75b71a1bee84b99121843a3bf.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-257-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_257_65534" start="20250128070000 +0000" stop="20250128073000 +0000">
 		<title>[英]BBCニュース</title>
 		<desc>世界の最新ニュースをお送りする。</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14853746/image/83281d6f76d4ca497e3e213825c63d10.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-257-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_257_65534" start="20250128073000 +0000" stop="20250128080000 +0000">
 		<title>[英]ビジネストゥデイ</title>
 		<desc>ロンドンをはじめ世界各国から、最新のビジネスニュースや最新情報に基づいた深い分析を届ける。</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14853747/image/f3f4e39b3f3939d175457e70b42ecf22.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-257-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_257_65534" start="20250128080000 +0000" stop="20250128083000 +0000">
 		<title>[英]BBCニュース</title>
 		<desc>世界の最新ニュースをお送りする。</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14853748/image/fd942c504be01c3d60ed36fd71562dda.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-257-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_257_65534" start="20250128083000 +0000" stop="20250128090000 +0000">
 		<title>[英]BBCニュース</title>
@@ -22137,7 +22143,7 @@ CNNの首席法務アナリスト、ローラ・コーツが、アメリカと�
 	<programme channel="jcom_120_257_65534" start="20250128090000 +0000" stop="20250128093000 +0000">
 		<title>BBCニュース</title>
 		<desc>世界の最新ニュースをお送りする。</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14853750/image/eea643e29fed1332999ffce66e2183c4.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-257-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_257_65534" start="20250128093000 +0000" stop="20250128100000 +0000">
 		<title>BBCニュース</title>
@@ -23477,7 +23483,7 @@ CNNの首席法務アナリスト、ローラ・コーツが、アメリカと�
 	<programme channel="jcom_120_156_65406" start="20250128040000 +0000" stop="20250128090000 +0000">
 		<title>最新邦楽ウィークリーランキング50▼Mrs. GREEN APPLE、Creepy Nuts 他</title>
 		<desc>いま巷で流行ってる邦楽はこの番組をチェックすれば全て丸わかり！CDセールス、配信、カラオケなど、ヒットの全て網羅したパーフェクトなランキング！</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14852844/image/73c870a1957dea7a37a15193258f6784.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-156-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_156_65406" start="20250128090000 +0000" stop="20250128130000 +0000">
 		<title>全曲歌詞入り！カラオケランキング50▼CUTIE STREET、あいみょん 他</title>
@@ -23594,12 +23600,12 @@ MC：小関裕太 / ほしのディスコ(パーパー)</desc>
 	<programme channel="jcom_120_150_65406" start="20250128060000 +0000" stop="20250128080000 +0000">
 		<title>MTV BIGGEST POP▼最強ポップソング</title>
 		<desc>時代を超えて愛され続ける最強ポップソングをお届け！</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14852756/image/e74d13082b2e6c71328cf894d060a291.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-150-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_150_65406" start="20250128080000 +0000" stop="20250128090000 +0000">
 		<title>LAPOSTA出演アーティストMV</title>
 		<desc>3度目の開催となる「LAPOSTA 2025」に出演するJO1、INI、DXTEEN、ME:I、IS:SUEなどのミュージックビデオをまとめてお届けする。</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14852757/image/519b79d1f75aebe0658728c5593eb925.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-150-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_150_65406" start="20250128090000 +0000" stop="20250128100000 +0000">
 		<title>2025年も推しが渋滞！韓国最強ヒッツ ＃2▼TWICE ほか</title>
@@ -23816,17 +23822,17 @@ MC：小関裕太 / ほしのディスコ(パーパー)</desc>
 	<programme channel="jcom_120_175_65406" start="20250128063000 +0000" stop="20250128070000 +0000">
 		<title>くらしの情報</title>
 		<desc>この時間は、ショッピング情報をお送りしております。</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14853242/image/8a3ce84d507d30cbbd3b58c185a98fb1.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-175-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_175_65406" start="20250128070000 +0000" stop="20250128083000 +0000">
 		<title>八代亜紀、吉幾三、坂本冬美 ほか この歌と生きる「人生演歌」特集◆歌謡決定版</title>
 		<desc>我が人生と共に…寄り添ってくれたあの歌この歌をお届け。</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14853243/image/76aa2d4e154d5640334b8c744496f9fc.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-175-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_175_65406" start="20250128083000 +0000" stop="20250128090000 +0000">
 		<title>くらしの情報</title>
 		<desc>この時間は、ショッピング情報をお送りしております。</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14853244/image/fcaa13895b44c2f098440bfc9b195af0.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-175-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_175_65406" start="20250128090000 +0000" stop="20250128110000 +0000">
 		<title>八代亜紀、三山ひろし、吉幾三ほか　「居酒屋」演歌◆歌謡決定版</title>
@@ -24054,7 +24060,7 @@ MC：小関裕太 / ほしのディスコ(パーパー)</desc>
 	<programme channel="jcom_120_161_65406" start="20250128060600 +0000" stop="20250128070000 +0000">
 		<title>ブルーノ・マーズ：素顔のままで</title>
 		<desc>2018年のグラミー賞で最多6冠受賞した“音楽界の至宝”ブルーノ・マーズの軌跡を辿るドキュメンタリー。（2016年制作）</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14852952/image/b22cc57c2759d5c39bfed72037d8ca7c.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-161-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_161_65406" start="20250128070000 +0000" stop="20250128072900 +0000">
 		<title>情報番組</title>
@@ -24064,7 +24070,7 @@ MC：小関裕太 / ほしのディスコ(パーパー)</desc>
 	<programme channel="jcom_120_161_65406" start="20250128072900 +0000" stop="20250128083100 +0000">
 		<title>エイミー・ワインハウス：ライヴ・イン・アイルランド2007〜Other Voices Sp〜</title>
 		<desc>2011年に27歳の若さで亡くなった21世紀後のイギリスを代表するヴォーカリストのひとり、エイミー・ワインハウスが2007年にアイルランドで行ったライヴ＆ドキュメンタリー。</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14852954/image/ffd932b4536e7367dd947765b0dda97c.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-161-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_161_65406" start="20250128083100 +0000" stop="20250128090000 +0000">
 		<title>情報番組</title>
@@ -24558,17 +24564,17 @@ MC：小関裕太 / ほしのディスコ(パーパー)</desc>
 	<programme channel="jcom_120_147_65406" start="20250128050000 +0000" stop="20250128083000 +0000">
 		<title>2024 明治安田レディスオープンゴルフトーナメント</title>
 		<desc>【JLPGAステップ・アップ・ツアー2024プレイバック！】明治安田レディスオープンゴルフトーナメント</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14852715/image/8cad73d2bb5bc4469a08733de4435f19.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-147-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_147_65406" start="20250128083000 +0000" stop="20250128090000 +0000">
 		<title>インフォメーション</title>
 		<desc> </desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14852716/image/d73b287cbd9e4e44d579b5c6b14abb5d.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-147-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_147_65406" start="20250128090000 +0000" stop="20250128093000 +0000">
 		<title>鈴木福ゴルフはじめました#64</title>
 		<desc>#64　ゴルフをはじめたばかりの鈴木福がゴルフの基礎や面白さを学ぶ新番組!</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14852717/image/9bc670d4931cf923a7cd570aead576a6.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-147-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_147_65406" start="20250128093000 +0000" stop="20250128094500 +0000">
 		<title>菅原大地のサイコーSWING　シーズン3 #12</title>
@@ -25108,17 +25114,17 @@ GAORAホームページ：www.gaora.co.jp</desc>
 
 解説：鶴岡慎也
 実況：土井悠平</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14852684/image/21586c55670e7837eede4a43ceec3a68.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-146-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_146_65406" start="20250128073000 +0000" stop="20250128083000 +0000">
 		<title>[ゴルフ]ゴルフW #38</title>
 		<desc>経験豊富なベテランとツアーを回る若手の女子プロがペアを組み、アマチュアペアと真剣勝負を行う「ゴルフW」を放送。 出演：高村亜紀、篠原まりあ、高柳愛実、澤田大輔</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14852685/image/c070dc65b59f5505400301f0f0aaf443.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-146-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_146_65406" start="20250128083000 +0000" stop="20250128090000 +0000">
 		<title>インフォメーション</title>
 		<desc>生活に役立つお得な情報をお届けします</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14852686/image/db32eb5e37b52d24ab6459d529c308ca.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-146-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_146_65406" start="20250128090000 +0000" stop="20250128131000 +0000">
 		<title>GAORAプロ野球中継2024セレクション「北海道日本ハム vs 福岡ソフトバンク」</title>
@@ -25428,7 +25434,7 @@ B×Bハルク＆横須賀ススム＆KagetoravsKAI＆ISHIN＆加藤良輝</desc>
 		<title>2025 三菱エレクトリックチャンピオンシップ at フアラライ 最終日</title>
 		<desc>直近2年間のツアー優勝者を始め、メジャーチャンピオンなど、豪華な顔ぶれが集結する2025年シーズンの初戦。
 解説：大町昭義　実況：横山和正</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14921941/image/74d88523fffb2d919b0c4af2d1772fbe.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-167-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_167_65406" start="20250128073000 +0000" stop="20250128080000 +0000">
 		<title>インフォメーション</title>
@@ -25436,22 +25442,22 @@ B×Bハルク＆横須賀ススム＆KagetoravsKAI＆ISHIN＆加藤良輝</desc>
 話題のクラブやグッズをご紹介。
 気に入った商品を即購入することができる！
 ショッピング番組。</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14921942/image/bc1adbc4cfd1b2196b1d53075d80486e.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-167-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_167_65406" start="20250128080000 +0000" stop="20250128081500 +0000">
 		<title>ＧＮセレクション 限定！ ギアＭＡＸ ＃５</title>
 		<desc>掛け値なし、本気のゴルファー目線と、ゴルフメーカーの信頼と技術力を掛け合わせ、これまでにないギアを提案する。</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14921943/image/186bf4cc3e87e3951a7c496001a88418.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-167-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_167_65406" start="20250128081500 +0000" stop="20250128083000 +0000">
 		<title>ＰＧＡツアーハイライト〜今日の松山英樹 最終日</title>
 		<desc>【ＰＧＡツアーハイライト〜ファーマーズインシュランスオープン 松山英樹 最終日】世界のトップで戦い続ける松山英樹のプレーをハイライトでお届け。</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14921944/image/b81b9cb226f2aa6b9abab9040193fb40.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-167-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_167_65406" start="20250128083000 +0000" stop="20250128093000 +0000">
 		<title>タイガー・ウッズ ドキュメンタリー 〜25years of Tiger〜</title>
 		<desc>プロデビューから25周年のタイガー・ウッズ。様々なテーマからタイガーの人生とキャリアを振り返る。</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14921945/image/232243bf34493ac82edc6bb6a07845aa.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-167-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_167_65406" start="20250128093000 +0000" stop="20250128100000 +0000">
 		<title>インフォメーション</title>
@@ -25818,7 +25824,7 @@ MC:福田充徳
 	<programme channel="jcom_120_166_65406" start="20250128060000 +0000" stop="20250128070000 +0000">
 		<title>THE GIANTSドキュメント 浅野翔吾19歳の覚悟と挑戦 [再]</title>
 		<desc>高卒新人1年目ながら1番打者でスタメン出場という王貞治以来の快挙を遂げた浅野翔吾の今しか撮影できない映像を余すところなくお届けします。</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14853037/image/5429b8204b1aa03587b35762a670b134.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-166-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_166_65406" start="20250128070000 +0000" stop="20250128080000 +0000">
 		<title>掴め！ジャイアンツ女子チーム3年目の進化 [再]</title>
@@ -25830,13 +25836,13 @@ MC:福田充徳
 		<title>超ジャイアンツ 92[再]</title>
 		<desc>今回はオフのニュースを総まとめ！自主トレ中の丸佳浩選手、浅野翔吾選手、井上温大投手ら直撃！今シーズンの意気込みは？女子野球の新首脳陣を紹介！
 ▽宮本和知　蛯原哲</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14853039/image/d12b218308c885c71c68d61a6675254a.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-166-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_166_65406" start="20250128090000 +0000" stop="20250128093000 +0000">
 		<title>ズムサタ プロ野球熱ケツ情報 812[再]</title>
 		<desc>「おもち／岡本和真のお正月」
 ▽「ズームイン!!サタデー」の人気コーナー「ズムサタ　プロ野球熱ケツ情報」が日テレジータスに進出!</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14853040/image/5dbe341524d33a0c3f9fba27f2b5a6af.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-166-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_166_65406" start="20250128093000 +0000" stop="20250128100000 +0000">
 		<title>ジータスショッピング</title>
@@ -26045,7 +26051,7 @@ MC：金村義明、大塚光二</desc>
 
 解説：村上晃一
 実況：望月佑真</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14853055/image/15ee1dfc45b0ed4f025952b6b8887346.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-168-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_168_65406" start="20250128070000 +0000" stop="20250128083000 +0000">
 		<title>第104回全国高校ラグビー 3回戦 #40 大阪桐蔭×倉敷</title>
@@ -26056,7 +26062,7 @@ MC：金村義明、大塚光二</desc>
 解説：直江光信
 実況：住田洋
 開催日：2025年1月1日</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14853056/image/59259cbaf52b3aa221029f12f0b49852.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-168-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_168_65406" start="20250128083000 +0000" stop="20250128100000 +0000">
 		<title>第104回全国高校ラグビー 3回戦 #41 東福岡×茗渓学園</title>
@@ -26292,7 +26298,7 @@ www.jsports.co.jp</desc>
 
 解説：相原博之
 実況：加藤暁</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14853069/image/7fa667040dec4f3c7be325b6352e10ef.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-169-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_169_65406" start="20250128080000 +0000" stop="20250128100000 +0000">
 		<title>SUPER GT 2024 総集編【ゲスト：山下健太、坪井翔】</title>
@@ -26500,12 +26506,12 @@ www.jsports.co.jp</desc>
 	<programme channel="jcom_120_158_65406" start="20250128050000 +0000" stop="20250128070000 +0000">
 		<title>NPBプロ野球12球団Jr.トーナメント2024 #13 楽天×横浜DeNA</title>
 		<desc>全国からの選りすぐられた野球少年・少女が集まり、大人顔負けのプレーも随所に飛び出す。子供達のひたむきなプレーを是非ご覧下さい。</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14852876/image/fca545b2d9fb28a546e9efe823104794.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-158-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_158_65406" start="20250128070000 +0000" stop="20250128090000 +0000">
 		<title>NPBプロ野球12球団Jr.トーナメント2024 #14 巨人×千葉ロッテ</title>
 		<desc>全国からの選りすぐられた野球少年・少女が集まり、大人顔負けのプレーも随所に飛び出す。子供達のひたむきなプレーを是非ご覧下さい。</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14852877/image/57633e6b50c3227123e035c00da48383.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-158-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_158_65406" start="20250128090000 +0000" stop="20250128100000 +0000">
 		<title>【世界一過酷なラリー】ダカールラリー2025 ステージ3(1/7)</title>
@@ -26698,7 +26704,7 @@ www.jsports.co.jp</desc>
 
 解説：岡崎真
 実況：小林千鶴</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14853912/image/aef249be6601779b3b9727084c1af5a8.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-132-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_132_65534" start="20250128080500 +0000" stop="20250128083500 +0000">
 		<title>J SPORTS HOOP!2025 学生バスケ情報番組 #1</title>
@@ -26709,12 +26715,12 @@ www.jsports.co.jp</desc>
 		<title>FISワールドカップ2024/25 スキー＆スノーボード ナビ</title>
 		<desc>J SPORTSで放送しているアルペンスキー、スキージャンプ、ノルディック複合、スノーボード、フリースタイルスキーを徹底紹介！
 さらに日本人選手の情報もお届け！</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14853913/image/b270c803ed80660717f19dc0ed09ce40.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-132-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_132_65534" start="20250128085500 +0000" stop="20250128093000 +0000">
 		<title>結束！侍ジャパン #117</title>
 		<desc>今回は2016年の第9回大会以来2回目のアジア選手権優勝を目指した侍ジャパンU-12代表に密着。</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14853914/image/408f91db7a4963dadac5b7e99c769cc1.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-132-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_132_65534" start="20250128093000 +0000" stop="20250128113000 +0000">
 		<title>アルペンスキーFIS W杯24/25【男子滑降】キッツビューエル(1/25)</title>
@@ -26898,7 +26904,7 @@ J SPORTS独占インタビュー！新たなチームで戦った2024シーズ�
 	<programme channel="jcom_120_106_65406" start="20250128083000 +0000" stop="20250128093000 +0000">
 		<title>ザ・ヒロインバトル 〜NEXT BACK9〜 #4</title>
 		<desc>次世代を担う女子ゴルファーたちによる対決番組。1対1の9ホールストローク対決にかけられた賞金は30万円!!</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14854211/image/23394d4a620b11f201480778687bb7bd.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-106-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_106_65406" start="20250128093000 +0000" stop="20250128100000 +0000">
 		<title>ホッとな☆お買い物情報</title>
@@ -28251,22 +28257,22 @@ J SPORTS独占インタビュー！新たなチームで戦った2024シーズ�
 	<programme channel="jcom_120_419_65527" start="20250128050000 +0000" stop="20250128064500 +0000">
 		<title>ビートたけしの痛快時代劇　なめくじ長屋捕物さわぎ　【午後のスペシャルアワー】</title>
 		<desc>出演：ビートたけし／平田満／佐藤Ｂ作　なめくじ長屋に暮らす一風変わった住人たちの騒動を描く人情喜劇時代劇。（1990年）</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14853702/image/79a87f18ed4101d88791b2ec6eeb554b.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65527-419-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_419_65527" start="20250128064500 +0000" stop="20250128070000 +0000">
 		<title>歴史を訪ねて 日本の城 関東・甲信越編2　◆撮影・監修：秋場たけお</title>
 		<desc>-2011年・オリジナル番組・本編12分-高島城／松代城／高崎城／関宿城</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14853703/image/07ac77b7999abbe7ee3741ae9101b098.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65527-419-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_419_65527" start="20250128070000 +0000" stop="20250128080000 +0000">
 		<title>必殺必中仕事屋稼業 #15</title>
 		<desc>「大当りで勝負」　出演：緒形拳／林隆三／草笛光子　蕎麦屋の半兵衛と博打打ちの政吉が、賭け事に興じつつも弱者の恨みを晴らしていく。（1975年・全26話）</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14853704/image/56d5034126c14d57a72ee1ecf223a5a3.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65527-419-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_419_65527" start="20250128080000 +0000" stop="20250128085500 +0000">
 		<title>ゴメスの名はゴメス #4（全5話）</title>
 		<desc>仲代達矢／芥川比呂志／栗原小巻　香港やイスラエルの砂漠を舞台に、熾烈なスパイ戦を繰り広げる。結城昌治の本格派スパイ小説をドラマ化（1967年・本編40分・全5話）</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14853705/image/3ba9dbeae5da12a1c21662305d5a3fe1.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65527-419-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_419_65527" start="20250128085500 +0000" stop="20250128105500 +0000">
 		<title>温泉 (秘) 大作戦　美人女将とパパラッチ!? 早春の気仙沼を巡る連続殺人！</title>
@@ -28632,17 +28638,17 @@ J SPORTS独占インタビュー！新たなチームで戦った2024シーズ�
 	<programme channel="jcom_120_122_65534" start="20250128063000 +0000" stop="20250128070000 +0000">
 		<title>インフォメーション</title>
 		<desc> </desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14853828/image/2048fdfa696fc7f7ae247729d7cc226e.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-122-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_122_65534" start="20250128070000 +0000" stop="20250128084500 +0000">
 		<title>シャロウ・グレイブ◆特集：２４時間　ノンストップ・サスペンス！◆</title>
 		<desc>「トレインスポッティング」のダニー・ボイル監督の初長編となるブラック・サスペンス。共同生活を送る３人の男女が、大金を巡って恐るべき運命に巻き込まれる様を描く。</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14853829/image/6a5a8b0a471b4d0d5b60cc638f7ff077.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-122-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_122_65534" start="20250128084500 +0000" stop="20250128091500 +0000">
 		<title>インフォメーション</title>
 		<desc> </desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14853830/image/26bcc344881550fc6f76e1e716368502.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-122-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_122_65534" start="20250128091500 +0000" stop="20250128114500 +0000">
 		<title>アイランド（2005年）</title>
@@ -28787,7 +28793,7 @@ J SPORTS独占インタビュー！新たなチームで戦った2024シーズ�
 	<programme channel="jcom_120_155_65406" start="20250128063000 +0000" stop="20250128084500 +0000">
 		<title>ホワイトアウト（2000）</title>
 		<desc>織田裕二が孤軍奮闘するヒーローを熱演した大ヒットアクション。雪に閉ざされた巨大ダムがテロリストに襲撃される。ひとり逃げ延びた男性は人質となった仲間のため反撃へ。</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14852836/image/f46d5bee837e50af7a8a633b6239b00c.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-155-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_155_65406" start="20250128084500 +0000" stop="20250128111500 +0000">
 		<title>天地明察</title>
@@ -28917,7 +28923,7 @@ J SPORTS独占インタビュー！新たなチームで戦った2024シーズ�
 	<programme channel="jcom_120_133_65534" start="20250128051500 +0000" stop="20250128074500 +0000">
 		<title>ボディガード(1992)</title>
 		<desc>脅迫を受けた女性トップスターを命がけで守るプロフェッショナルな男。90年代を代表するラブストーリー</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14853925/image/a26b7e40b616df51c5426620e6a22e16.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-133-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_133_65534" start="20250128074500 +0000" stop="20250128094500 +0000">
 		<title>レプリカズ</title>
@@ -29077,13 +29083,13 @@ J SPORTS独占インタビュー！新たなチームで戦った2024シーズ�
 		<title>赤い霊柩車２７　魔女の囁き【片平なぎさ主演】◆連日14:30より２時間サスペンス</title>
 		<desc>放送日／28 
 片平なぎさ演じる葬儀社女社長が難事件を解決していく大人気ドラマシリーズ。共演：神田正輝　若林豪　竹下景子(11年・120分)</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14852774/image/df5f9b741357a4177525746bfff06d86.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-151-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_151_65406" start="20250128073500 +0000" stop="20250128092500 +0000">
 		<title>西村京太郎サスペンス　十津川捜査班８　十津川警部『家族』</title>
 		<desc>放送日／28 
 西村京太郎の傑作サスペンスを高嶋政伸主演でドラマ化したシリーズ第8弾。共演：小泉孝太郎　山村紅葉(14年・120分)</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14852775/image/450c9bdd86501a8995d194960194ddbe.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-151-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_151_65406" start="20250128092500 +0000" stop="20250128095500 +0000">
 		<title>インフォメーション</title>
@@ -29295,7 +29301,7 @@ J SPORTS独占インタビュー！新たなチームで戦った2024シーズ�
 	<programme channel="jcom_120_125_65534" start="20250128062500 +0000" stop="20250128082500 +0000">
 		<title>温泉 (秘) 大作戦　鳴門のうず潮に引き裂かれた夫婦愛！</title>
 		<desc>出演：森口瑤子／東幹久／清水美沙　全国の温泉旅館に従業員として潜入し、その立て直しに辣腕を振るう、旅館コンサルタントたちの活躍を描く。</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14853875/image/ec23debf40040ae4f5bcb31a947e523b.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-125-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_125_65534" start="20250128082500 +0000" stop="20250128085500 +0000">
 		<title>生活情報の時間</title>
@@ -29519,23 +29525,23 @@ J SPORTS独占インタビュー！新たなチームで戦った2024シーズ�
 	<programme channel="jcom_120_159_65406" start="20250128050000 +0000" stop="20250128064500 +0000">
 		<title>ビートたけしの痛快時代劇　なめくじ長屋捕物さわぎ　【午後のスペシャルアワー】</title>
 		<desc>出演：ビートたけし／平田満／佐藤Ｂ作　なめくじ長屋に暮らす一風変わった住人たちの騒動を描く人情喜劇時代劇。（1990年）</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14852897/image/be24f8af1b7e11a01aa1037ded2051b3.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-159-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_159_65406" start="20250128064500 +0000" stop="20250128070000 +0000">
 		<title>生活情報の時間</title>
 		<desc>-2025年・オリジナル番組-
 この時間は、ショッピング情報をお送りします。</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14852898/image/d1b45273f62300b081b7abbeb7b7004a.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-159-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_159_65406" start="20250128070000 +0000" stop="20250128080000 +0000">
 		<title>必殺必中仕事屋稼業 #15</title>
 		<desc>「大当りで勝負」　出演：緒形拳／林隆三／草笛光子　蕎麦屋の半兵衛と博打打ちの政吉が、賭け事に興じつつも弱者の恨みを晴らしていく。（1975年・全26話）</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14852899/image/c962e48aa832f1a7c8e4e2348a48d56e.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-159-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_159_65406" start="20250128080000 +0000" stop="20250128090000 +0000">
 		<title>[2K]西遊記＜４Ｋデジタルリマスター版＞ #16</title>
 		<desc>「独角大王・結婚行進曲」出演：堺正章／夏目雅子／岸部シロー／西田敏行　大ヒット名作ドラマの4Kデジタルリマスター版（1978年・全26話）</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14852900/image/c2b48f384c45428ba4a1f1269ce48fe4.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-159-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_159_65406" start="20250128090000 +0000" stop="20250128100000 +0000">
 		<title>吉宗評判記　暴れん坊将軍 #105　◆松平健／栗塚旭</title>
@@ -30536,7 +30542,7 @@ TV初 2024年 日本 本編124分
 		<desc>＜日本一の麻雀王を競う人気大会＞
 2022年 日本 本編115分
 出演：【雀士】1st stage勝者</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14853544/image/9b9cd21867877fa68021cee605af8f1c.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-195-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_195_65406" start="20250128064000 +0000" stop="20250128074000 +0000">
 		<title>パチスロキャノンボール season30 ＃2</title>
@@ -30544,31 +30550,31 @@ TV初 2024年 日本 本編124分
 TV初 2024年 日本 本編55分
 出演：未定（五十音順）
 【実況】木村魚拓、伊藤真一</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14853545/image/17470d2f2f491eadc0d683b0d795e4c7.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-195-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_195_65406" start="20250128074000 +0000" stop="20250128081000 +0000">
 		<title>情報番組</title>
 		<desc>情報番組（PR）</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14853546/image/71a359ad5fc07c43f2e91095df5925c1.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-195-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_195_65406" start="20250128081000 +0000" stop="20250128083000 +0000">
 		<title>サウナ美女図鑑 ＃1</title>
 		<desc>＜サウナにお忍びで訪れる美女を紹介！＞
 2022年 日本 本編15分
 出演：森咲智美</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14853547/image/137b11885c2e4f911cafb54a0a307343.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-195-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_195_65406" start="20250128083000 +0000" stop="20250128090000 +0000">
 		<title>誘女、派遣します episode26</title>
 		<desc>＜大注目の欲望観察バラエティ＞
 2017年 日本 本編25分
 出演：桃乃木かな</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14853548/image/7afed988a50dff8c57f7a16bcc5e7c23.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-195-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_195_65406" start="20250128090000 +0000" stop="20250128093000 +0000">
 		<title>情報番組</title>
 		<desc>情報番組（PR）</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14853549/image/e016ba77d14fd53b3b82e680396e1f8e.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-195-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_195_65406" start="20250128093000 +0000" stop="20250128103000 +0000">
 		<title>パチンコキャノンボール season26 ＃2</title>
@@ -30870,12 +30876,12 @@ TV初 2024年 日本 本編112分
 	<programme channel="jcom_120_131_65534" start="20250128063000 +0000" stop="20250128073500 +0000">
 		<title>NCIS 〜ネイビー犯罪捜査班 シーズン20 #11「禁断の恋」[字]</title>
 		<desc>モーテルの一室で海軍少尉の死体が見つかり、モーテルの予約にパーカーの名前が使われていたことが発覚。チームが調べを進めると、パーカーの初恋の相手の息子に行き着く。</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14853897/image/037618299a73bc9088cfd331f9998b96.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-131-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_131_65534" start="20250128073500 +0000" stop="20250128083000 +0000">
 		<title>NCIS 〜ネイビー犯罪捜査班 シーズン20 #12「トラック強盗」[字]</title>
 		<desc>潜入捜査中のソーヤーが動揺した様子でトーレスの前に現れ、また姿を消す。心配したチームがソーヤーの宿泊先に行ってみると、全焼した車の中から死体が発見される。</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14853898/image/c9fd829da825449a6cb9caaa173ef79c.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-131-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_131_65534" start="20250128083000 +0000" stop="20250128090000 +0000">
 		<title>インフォメーション[日]</title>
@@ -31165,12 +31171,12 @@ TV初 2024年 日本 本編112分
 	<programme channel="jcom_120_126_65406" start="20250128063000 +0000" stop="20250128074200 +0000">
 		<title>[韓]#05 ロボットじゃない〜君に夢中！〜&lt;字&gt;◆ユ・スンホ</title>
 		<desc>【韓国ドラマ】第5話(本編59分)&lt;字&gt;(全16話)　出演：ユ・スンホ、チェ・スビン他　制作：韓国 2017年</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14854270/image/63107d20618e51df392ecb6c03556c54.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-126-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_126_65406" start="20250128074200 +0000" stop="20250128083000 +0000">
 		<title>お役立ち生活情報・お知らせ</title>
 		<desc>アジアドラマチックTVから皆さんにお得な情報をお知らせいたします。</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14854271/image/5166f0f5933e646f7e272d9befd6a9d9.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-126-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_126_65406" start="20250128083000 +0000" stop="20250128100000 +0000">
 		<title>[中]映画 生魂（「陳情令」番外編映画）&lt;字&gt;</title>
@@ -31495,22 +31501,22 @@ TV初 2024年 日本 本編112分
 	<programme channel="jcom_120_135_65534" start="20250128053000 +0000" stop="20250128070000 +0000">
 		<title>韓◆帝王の娘スベクヒャン＃４５〜４６＜ノーカット字幕版／全１０８話＞</title>
 		<desc>6世紀の百済を舞台に、第25代王・武寧王の娘として実在した人物をモチーフに描いた長編時代劇。運命を狂わされた男女の愛と野望がドラマチックに展開する/2013年</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14853975/image/62e8f77e33d56421cb31299d2df39960.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-135-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_135_65534" start="20250128070000 +0000" stop="20250128073000 +0000">
 		<title>インフォメーション</title>
 		<desc>インフォメーション</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14853976/image/5683823daba97d4b5fa6863910723b68.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-135-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_135_65534" start="20250128073000 +0000" stop="20250128083000 +0000">
 		<title>孤独のグルメ　Season２＃１０＜全１２話＞</title>
 		<desc>【北区十条の鯖のくんせいと甘い玉子焼】輸入雑貨商を営む井之頭五郎は仕事で訪れた町で、ふと店に立ち寄り自由に食事をする/2012年</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14853977/image/87628611e5c262c56f1b4cab09fac1f7.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-135-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_135_65534" start="20250128083000 +0000" stop="20250128090000 +0000">
 		<title>インフォメーション</title>
 		<desc>インフォメーション</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14853978/image/33c7917265988d0ed118a91fcb1c3590.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-135-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_135_65534" start="20250128090000 +0000" stop="20250128104500 +0000">
 		<title>ＢＳ日本のうた　＃１９３</title>
@@ -31755,17 +31761,17 @@ TV初 2024年 日本 本編112分
 	<programme channel="jcom_120_144_65406" start="20250128060000 +0000" stop="20250128074000 +0000">
 		<title>刑事シュート2 しゅうと&amp;ムコの事件日誌</title>
 		<desc>舅と婿がコンビを組む刑事ドラマの第2弾。舅の北大路欣也と婿の石垣佑磨が、丁々発止やり合いながらも、大病院で起きた奇妙な殺人事件の謎に挑む。</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14852636/image/97efd023d3c51c2bc1dd21a80bf259ca.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-144-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_144_65406" start="20250128074000 +0000" stop="20250128080000 +0000">
 		<title>吉田類の酒場放浪記 #36「菊川『みたかや酒場』」</title>
 		<desc>東京の下町を中心に“大人がひとりでぶらっと立ち寄れる”酒場を紹介する異色の立ち飲み紀行番組。</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14852637/image/d2ee8fdf48929da71ca2bef3921f9eff.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-144-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_144_65406" start="20250128080000 +0000" stop="20250128085000 +0000">
 		<title>橋田壽賀子ドラマ「渡る世間は鬼ばかり」(第4シリーズ) #47</title>
 		<desc>橋田壽賀子脚本による国民的ホームドラマ第4シリーズ。嫁いだ5人の娘たちと父親を中心に、それぞれの家庭や周囲の人々の暮らしを描く。</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14852638/image/d9503565601fef624968092232df9238.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-144-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_144_65406" start="20250128085000 +0000" stop="20250128103000 +0000">
 		<title>佐々木譲サスペンス「北海道警察3 人質」</title>
@@ -32050,12 +32056,12 @@ TV初 2024年 日本 本編112分
 人気の刑事ドラマのシーズン2
 人情派ベテラン刑事とエリートイケメン刑事が再び悪に立ち向かい真実を暴いていく
 2022年　70分　全16話</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14852545/image/3dd2b4c3422e9a5ebf2bf94e2a439504.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-141-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_141_65406" start="20250128073000 +0000" stop="20250128080000 +0000">
 		<title>インフォメーション</title>
 		<desc>通販情報番組</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14852546/image/2194c274d39569a76896c62f16eb5efa.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-141-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_141_65406" start="20250128080000 +0000" stop="20250128090500 +0000">
 		<title>闇を斬る！大江戸犯科帳＃１７　▼里見浩太朗、西郷輝彦</title>
@@ -32063,7 +32069,7 @@ TV初 2024年 日本 本編112分
 ＃１７「闇に咲く花」
 笑いと涙、殺陣の魅力たっぷりの勧善懲悪時代劇！
 1993年　47分　全20話</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14852547/image/1b9b256731ac99e1334fe5a948fb3c6a.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-141-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_141_65406" start="20250128090500 +0000" stop="20250128100000 +0000">
 		<title>闇を斬る！大江戸犯科帳＃１８　▼里見浩太朗、西郷輝彦</title>
@@ -32459,12 +32465,12 @@ KBS京都制作。四季折々見事なまでに表情を変える自然美、�
 	<programme channel="jcom_120_176_65406" start="20250128060000 +0000" stop="20250128070000 +0000">
 		<title>江戸を斬る・第5部 #15 ◆西郷輝彦</title>
 		<desc>痛快時代劇「江戸を斬る」シリーズの第5部。西郷輝彦演じる南町名奉行・遠山金四郎の活躍を描く。共演は、松坂慶子ほか。</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14853268/image/374728e95fc8a2444ef36bfc268cc645.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-176-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_176_65406" start="20250128070000 +0000" stop="20250128080000 +0000">
 		<title>江戸を斬る・第5部 #16 ◆西郷輝彦</title>
 		<desc>痛快時代劇「江戸を斬る」シリーズの第5部。西郷輝彦演じる南町名奉行・遠山金四郎の活躍を描く。共演は、松坂慶子ほか。</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14853269/image/6d65c083662605a4e936306ee1c63b9d.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-176-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_176_65406" start="20250128080000 +0000" stop="20250128083000 +0000">
 		<title>TBSチャンネルショッピング</title>
@@ -32474,12 +32480,12 @@ KBS京都制作。四季折々見事なまでに表情を変える自然美、�
 	<programme channel="jcom_120_176_65406" start="20250128083000 +0000" stop="20250128084500 +0000">
 		<title>吉田類の酒場放浪記 #704「二子玉川『川よし』」</title>
 		<desc>東京の下町を中心に“大人がひとりでぶらっと立ち寄れる”酒場を紹介する異色の立ち飲み紀行番組。</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14853271/image/46b589796dc51f779019552df117964f.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-176-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_176_65406" start="20250128084500 +0000" stop="20250128090000 +0000">
 		<title>吉田類の酒場放浪記 #705「用賀『なかむらや』」</title>
 		<desc>東京の下町を中心に“大人がひとりでぶらっと立ち寄れる”酒場を紹介する異色の立ち飲み紀行番組。</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14853272/image/b3a506876e3bac22ea169f0046f58e05.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-176-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_176_65406" start="20250128090000 +0000" stop="20250128095000 +0000">
 		<title>プロミス・シンデレラ #6</title>
@@ -32784,17 +32790,17 @@ KBS京都制作。四季折々見事なまでに表情を変える自然美、�
 	<programme channel="jcom_120_123_65534" start="20250128063000 +0000" stop="20250128080000 +0000">
 		<title>韓◆ある日〜真実のベール＃６［字］キム・スヒョン出演</title>
 		<desc>キム・スヒョン主演！平凡な大学生が、ある日突然、殺人事件の容疑者に…無罪を信じる落ちこぼれ弁護士とともに、真相を追い求めるクライムサスペンス！[全8話]2021年</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14853854/image/0986373e2734daa0bd48bac964766467.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-123-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_123_65534" start="20250128080000 +0000" stop="20250128083000 +0000">
 		<title>インフォメーション</title>
 		<desc>インフォメーション</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14853855/image/fd8daeb31cdab7661dab3aeaaa3b2175.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-123-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_123_65534" start="20250128083000 +0000" stop="20250128090000 +0000">
 		<title>クワバタオハラのゆかいな更年期　尿もれ・頻尿</title>
 		<desc>その不調、我慢しないで語り合おう！いつまでも健やかに、自分らしく生きたい女性たちに贈る情報トーク番組。2022年</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14853856/image/de4e2233868ca784533f99ef2b7fbddb.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-123-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_123_65534" start="20250128090000 +0000" stop="20250128104500 +0000">
 		<title>韓◆三食ごはん　コチャン編＃７［字］</title>
@@ -33072,12 +33078,12 @@ KBS京都制作。四季折々見事なまでに表情を変える自然美、�
 	<programme channel="jcom_120_157_65406" start="20250128055000 +0000" stop="20250128074000 +0000">
 		<title>ブランド刑事　予備鑑定捜査員　桐原真実　出演：東ちづる</title>
 		<desc>【出演】：東ちづる、金子貴俊、矢沢心、きたろう、高杉亘、伊武雅刀、中込佐知子、平賀雅臣、三木さつき、山崎一</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14852863/image/8ceb25055ecab6fd0ff5966941b02454.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-157-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_157_65406" start="20250128074000 +0000" stop="20250128093000 +0000">
 		<title>天才刑事・野呂盆六９　出演：橋爪功</title>
 		<desc>【出演】：橋爪功、大後寿々花、原田夏希、浜田晃、小木茂光、高橋恵子　ほか</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14852864/image/59d31ab047d7ed4d75d92d47fef2b8d4.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-157-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_157_65406" start="20250128093000 +0000" stop="20250128100000 +0000">
 		<title>生活お役立ち情報</title>
@@ -33322,19 +33328,19 @@ KBS京都制作。四季折々見事なまでに表情を変える自然美、�
 		<title>プロファイリング　パリ犯罪捜査課 [字] #4</title>
 		<desc>第4話「失われた楽園」
 犯罪学専門のプロファイラーと、パリ司法警察の捜査チームが難事件を解決！</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14852740/image/2bc90c940443d2337f8178734e6f01ed.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-148-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_148_65406" start="20250128065500 +0000" stop="20250128075000 +0000">
 		<title>プロファイリング　パリ犯罪捜査課 [字] #5</title>
 		<desc>第5話「聖人か偽善者か」
 犯罪学専門のプロファイラーと、パリ司法警察の捜査チームが難事件を解決！</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14852741/image/919496ef4cb41503cbb6cb4da3f8b289.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-148-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_148_65406" start="20250128075000 +0000" stop="20250128090000 +0000">
 		<title>プロファイリング　パリ犯罪捜査課 [字] #6 [終]</title>
 		<desc>第6話「仮面の裏側」
 犯罪学専門のプロファイラーと、パリ司法警察の捜査チームが難事件を解決！</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14852742/image/b9db268b64b68e33685a1bd5a908cdeb.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-148-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_148_65406" start="20250128090000 +0000" stop="20250128115000 +0000">
 		<title>ハドソン＆レックス〜セントジョンズ警察シェパード犬刑事 4 [字] #1-3</title>
@@ -33579,7 +33585,7 @@ KBS京都制作。四季折々見事なまでに表情を変える自然美、�
 	<programme channel="jcom_120_153_65406" start="20250128063000 +0000" stop="20250128064500 +0000">
 		<title>名探偵のお弁当  #3</title>
 		<desc>江戸川乱歩『怪人二十面相』×おにぎり／ミステリーと食を愛する私立探偵・源道寺醍醐が作るお弁当を通して名探偵の魅力をご紹介するオリジナル番組。</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14852793/image/7d24cd333d08d92010a5b7f4a47027ce.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-153-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_153_65406" start="20250128064500 +0000" stop="20250128070000 +0000">
 		<title>新・世界鉄道の旅 #4 [字]</title>
@@ -33590,7 +33596,7 @@ KBS京都制作。四季折々見事なまでに表情を変える自然美、�
 	<programme channel="jcom_120_153_65406" start="20250128070000 +0000" stop="20250128090000 +0000">
 		<title>ヴェラ〜信念の女警部〜（シーズン10) #3 [字]</title>
 		<desc>【名探偵アワー】歩く死人／英国ITVで視聴者数800万人以上を獲得。部下には容赦しない”鬼上司”だがどこか憎めない女警部ヴェラが事件解決に挑む。（2020年）</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14852795/image/3aa05199ce9ba9e509aed5db4b0da5a0.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-153-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_153_65406" start="20250128090000 +0000" stop="20250128110000 +0000">
 		<title>ヴェラ〜信念の女警部〜（シーズン10) #4 [字][終]</title>
@@ -33852,7 +33858,7 @@ KBS京都制作。四季折々見事なまでに表情を変える自然美、�
 	<programme channel="jcom_120_149_65406" start="20250128060000 +0000" stop="20250128070000 +0000">
 		<title>北斗の拳 #17，18</title>
 		<desc>#17「戦えばこそ男!対決の門は遂に開かれた!」#18「生か死か!?荒野の果ては地獄の一丁目!!」社会現象を巻き起こしたハードボイルドアクション!＜全109話＞</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14867388/image/ee9f2b02b49feb354e1fa83c3cd556e7.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-149-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_149_65406" start="20250128070000 +0000" stop="20250128080000 +0000">
 		<title>はたらく細胞!! #5，6</title>
@@ -33864,7 +33870,7 @@ KBS京都制作。四季折々見事なまでに表情を変える自然美、�
 		<title>ハイキュー!! セカンドシーズン #24，25 END</title>
 		<desc>#24「極限スイッチ」#25「宣戦布告」END
 春高予選に向け、動き出す烏野高校排球部。バレーボールに情熱を燃やす男子高校生の青春を描く。＜全25話＞</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14867390/image/829506363e248a683a000dd351b27e27.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-149-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_149_65406" start="20250128090000 +0000" stop="20250128100000 +0000">
 		<title>僕のヒーローアカデミア #110，111</title>
@@ -34253,23 +34259,23 @@ KBS京都制作。四季折々見事なまでに表情を変える自然美、�
 	<programme channel="jcom_120_163_65406" start="20250128060000 +0000" stop="20250128070000 +0000">
 		<title>それいけ！アンパンマン #1419，1420</title>
 		<desc>＃１４１９「ちゅらおばあとけむりいぬ／ホラーマンとカップケーキちゃん」＃１４２０「ニガウリマンとロコモコシスターズ／おむすびまんと白バラ女王」</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14852987/image/41817bc0d0aa81d369653521647a33fb.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-163-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_163_65406" start="20250128070000 +0000" stop="20250128073000 +0000">
 		<title>ふるさと再生　日本の昔ばなし #160</title>
 		<desc>第160話「鼻とりの地蔵さん／たのきゅう／鯨橋」
 こどもたちの未来のために、今こそ新たに伝えたい、私たち日本の昔ばなし!!</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14852988/image/b49eefbe058f4877690868cbb5dd1488.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-163-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_163_65406" start="20250128073000 +0000" stop="20250128080000 +0000">
 		<title>ふしぎ駄菓子屋 銭天堂(第3期) #73，74</title>
 		<desc>＃７３「ダイナソーダと遺跡（いせき）おかき　前編」＃７４「ダイナソーダと遺跡（いせき）おかき　後編」</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14852989/image/4b6809922f4eb9dc4c65fc24dadb3fa9.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-163-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_163_65406" start="20250128080000 +0000" stop="20250128090000 +0000">
 		<title>ポケットモンスター（2019年） #105，106</title>
 		<desc>＃１０５「サトシとシトロン！友情大特訓！！」＃１０６「ハイパークラス！ＶＳ四天王ドラセナ！！」</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14852990/image/0eca287779687fdedea7cb924d3e7be7.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-163-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_163_65406" start="20250128090000 +0000" stop="20250128100000 +0000">
 		<title>メジャー 第3シリーズ #15，16</title>
@@ -34742,47 +34748,47 @@ KBS京都制作。四季折々見事なまでに表情を変える自然美、�
 	<programme channel="jcom_120_171_65406" start="20250128063000 +0000" stop="20250128070000 +0000">
 		<title>ティーン・タイタンズＧＯ！ #169(二)</title>
 		<desc>＜ドゥーム・パトロールの感謝祭 パート１/パート２＞人気アメコミ「ティーン・タイタンズ」たちが、ちびキャラに！抱腹絶倒のギャグアニメ</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14853144/image/487a57356c3cc2d4e94ff531d4315b9c.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-171-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_171_65406" start="20250128070000 +0000" stop="20250128073000 +0000">
 		<title>ランプート（30分） #16</title>
 		<desc> </desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14853145/image/a35651d0f7102ea7cf26a711ff89f6c6.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-171-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_171_65406" start="20250128073000 +0000" stop="20250128074500 +0000">
 		<title>おっはよー！アンクル・グランパ #31(二)</title>
 		<desc>＜伝説のプロレスラー＞愛車のキャンピングカーを乗り回し、昼でも夜でも「おっはよー！」大連発のナゾのおじさんがやってきた！</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14853146/image/86ffd49f7786e7c372912f61d5856930.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-171-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_171_65406" start="20250128074500 +0000" stop="20250128080000 +0000">
 		<title>おっはよー！アンクル・グランパ #32(二)</title>
 		<desc>＜転校生はストレスいっぱい！＞愛車のキャンピングカーを乗り回し、昼でも夜でも「おっはよー！」大連発のナゾのおじさんがやってきた！</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14853147/image/0a58e41467d64ae79cd8367716bd1c09.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-171-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_171_65406" start="20250128080000 +0000" stop="20250128081500 +0000">
 		<title>ぼくらベアベアーズ #18(二)</title>
 		<desc>【声】川原慶久、谷山紀章、保村真　グリズ、パンダ、アイスベアのほんわか心和む仲良しトリオの日常を描いた作品。</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14853148/image/89ce38ecb0fb420e7ef895c4db8a2257.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-171-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_171_65406" start="20250128081500 +0000" stop="20250128083000 +0000">
 		<title>ぼくらベアベアーズ #19(二)</title>
 		<desc>【声】川原慶久、谷山紀章、保村真　グリズ、パンダ、アイスベアのほんわか心和む仲良しトリオの日常を描いた作品。</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14853149/image/74feb9cb8ea90065f80b7f60ac49a42b.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-171-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_171_65406" start="20250128083000 +0000" stop="20250128084500 +0000">
 		<title>ぼくらベアベアーズ #20(二)</title>
 		<desc>【声】川原慶久、谷山紀章、保村真　グリズ、パンダ、アイスベアのほんわか心和む仲良しトリオの日常を描いた作品。</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14853150/image/13572b7f8ea3bd79cc605f9d306e1955.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-171-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_171_65406" start="20250128084500 +0000" stop="20250128090000 +0000">
 		<title>ぼくらベアベアーズ #21(二)</title>
 		<desc>【声】川原慶久、谷山紀章、保村真　グリズ、パンダ、アイスベアのほんわか心和む仲良しトリオの日常を描いた作品。</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14853151/image/ac029891095fbfcdea5c94b618915015.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-171-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_171_65406" start="20250128090000 +0000" stop="20250128093000 +0000">
 		<title>おかしなガムボール #110(二)</title>
 		<desc>＜理解不能な新入生/きょうは脇役が主役＞１２歳の青いネコのガムボールと金魚のダーウィンは親友。視覚的にも面白い奇想天外なナンセンス・コメデイ。</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14853152/image/0280d0ffa12a64896d17ec5221cb85de.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-171-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_171_65406" start="20250128093000 +0000" stop="20250128100000 +0000">
 		<title>おかしなガムボール #111(二)</title>
@@ -35350,37 +35356,37 @@ KBS京都制作。四季折々見事なまでに表情を変える自然美、�
 	<programme channel="jcom_120_183_65406" start="20250128063000 +0000" stop="20250128065500 +0000">
 		<title>ブルーイ#17[二]</title>
 		<desc>ブルーイたちはパパがどんな意地悪をしたかママに話し始める。/新しいペットのショーンのしつけに苦労する。/ブルーイたちはパパロボットにお部屋の片づけを手伝わせる。</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14853332/image/890ef877fbbb443155231788364321c5.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-183-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_183_65406" start="20250128065500 +0000" stop="20250128070000 +0000">
 		<title>ミッキーマウス！#25[二]</title>
 		<desc>サイエンスホールでミクロ光線に見とれていたミッキーとグーフィー。その横でドナルドが誤ってスイッチを押し、２人はミクロサイズに縮んでドナルドの体内に入ってしまう。</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14853333/image/0c8243b4c8ea8d4e69d74cca754aca09.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-183-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_183_65406" start="20250128070000 +0000" stop="20250128073000 +0000">
 		<title>ビッグシティ・グリーン#58[二]</title>
 		<desc>レミーは、親友の滑稽な姿を撮っては投稿し、ネットの人気者になる。／ティリーとクリケットは、最終話のラストが決まらず困っていたアニメの制作現場でアイデアを出す。</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14853334/image/b14c6032ad6e1d3b05b2a346481ef91b.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-183-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_183_65406" start="20250128073000 +0000" stop="20250128080000 +0000">
 		<title>ビッグシティ・グリーン#59[二]</title>
 		<desc>家の前に停められた持ち主不明の汚いバン。バーチャンたちはわざとバンを動かし…。／クリケットとティリーの野球の試合は相手が強すぎる上、イジワルもひどい。</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14853335/image/3dbf2822e8b7588449d6a6f105a4fc9f.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-183-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_183_65406" start="20250128080000 +0000" stop="20250128083000 +0000">
 		<title>スイートプリキュア♪#16</title>
 		<desc>奏とケンカした私、響。ハミィの発案で仲直りするために、お互いの家に交換ステイしたんだけど、奏は毎日お店のお手伝いをしたり、奏太に勉強教えたり、すごく大変なんだ。</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14853336/image/e004e672835904f7a04c264080401cbe.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-183-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_183_65406" start="20250128083000 +0000" stop="20250128090000 +0000">
 		<title>スマイルプリキュア！#16</title>
 		<desc>れいかちゃんが勉強も弓道もプリキュアもやめるって！そんなことを言うなんて、いったいどうしちゃったの!?自分が本当にやりたいことを、見つけたいって言うんだけど…。</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14853337/image/a3357eb8bbd087c2c4d392ca27b4dd22.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-183-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_183_65406" start="20250128090000 +0000" stop="20250128093000 +0000">
 		<title>魔入りました！入間くん　第3シーズン#51</title>
 		<desc>クララの魔術で着ぐるみの中に捕らえられた入間は不思議なメルヘン空間へ。／収穫祭１日目の夜、リタイアする生徒が続出。へとへとのコナツたちがたどり着いた場所とは！？</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14853338/image/5e63430866cec7d859031c7987150483.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-183-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_183_65406" start="20250128093000 +0000" stop="20250128100000 +0000">
 		<title>ミラキュラス　レディバグ＆シャノワール#49[二]</title>
@@ -36322,37 +36328,37 @@ KBS京都制作。四季折々見事なまでに表情を変える自然美、�
 	<programme channel="jcom_120_130_65406" start="20250128063000 +0000" stop="20250128070000 +0000">
 		<title>キーヤとキモージャヒーロー#18[二]</title>
 		<desc>みんなで協力するパズル探しなのに、ジェイが１人でピースを集めはじめた！／ハディが速すぎて、スピードでは誰にも負けないモッツィーも追いつけない。一体、どうして？</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14854370/image/99b06f852627be78fce6397fef7d0cfa.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-130-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_130_65406" start="20250128070000 +0000" stop="20250128073000 +0000">
 		<title>ひらめき！ユリーカ#7[二]</title>
 		<desc>秘密の洞窟に大昔の水晶があり、光を放つ生物がいるという。ユリーカたちは探検へ。／カンガドンのような強い脚と鳥のような翼を持つ動物は、カンガバードと名づけられる。</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14854371/image/704eb042555cbf6c8bbb47b109660ee2.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-130-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_130_65406" start="20250128073000 +0000" stop="20250128074000 +0000">
 		<title>ディズニージュニア　おうたのじかん</title>
 		<desc>ディズニージュニアで人気のショートムービーの中から、英語で歌っているおうたたちを集めたよ！みんなで一緒に歌おう！</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14854372/image/d75c886aa1f9fd9be33edcf463f730eb.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-130-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_130_65406" start="20250128074000 +0000" stop="20250128080000 +0000">
 		<title>ヘイ！ダギー#65，#66[二]</title>
 		<desc>#65「ダギーの　おどるムシバッジ」　#66「ダギーの　れっしゃバッジ」</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14854373/image/d4d24d4f088d189b8258f536080e00a6.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-130-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_130_65406" start="20250128080000 +0000" stop="20250128083000 +0000">
 		<title>ミッキーマウス　クラブハウス#96[二]</title>
 		<desc>石拾いに行ったグーフィーが石と間違えて何かの卵を拾ってくる。何の卵かは分からないが、卵がかえる前にみんなでママを探してあげることに。まずは小鳥に話を聞きに行く。</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14854374/image/865e5ef975f140938e6fd9e7d4820d4e.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-130-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_130_65406" start="20250128083000 +0000" stop="20250128090000 +0000">
 		<title>スパイディとすごいなかまたち#41[二]</title>
 		<desc>ピーターたち３人が地下鉄に乗ろうとすると、エレクトロが現れる。／宝探しに向かったカーネギーさんからＳＯＳが入り、クモのヒーローたちは救助のため出動する。</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14854375/image/8e8a0ca6860aa86d81beb431cc7e30a4.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-130-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_130_65406" start="20250128090000 +0000" stop="20250128093000 +0000">
 		<title>ブルーイ#21[二]</title>
 		<desc>ビンゴは朝まで自分で寝ると宣言する。／子供たちを送っていく日、パパは遅刻しまいと急ぐが…。／ブルーイは、今日あったお気に入りの出来事を発表しようと提案する。</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14854376/image/c036e705fb09876fb855c5fbf2f7080f.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-130-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_130_65406" start="20250128093000 +0000" stop="20250128100000 +0000">
 		<title>ブルーイ#22[二]</title>
@@ -36843,14 +36849,14 @@ KBS京都制作。四季折々見事なまでに表情を変える自然美、�
 		<title>古代の宇宙人S3 #21&amp;#22[二]</title>
 		<desc>『#21 宇宙人の謎めいた儀式/#22 古代建築技術の謎』
 古代地球と宇宙の繋がりに迫る人気ミステリーシリーズ！宇宙人に関する目撃情報や現象を新たな角度から掘り下げる！</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14853951/image/eb3ef329832c7f720a0a7587f10b815a.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-134-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_134_65534" start="20250128083000 +0000" stop="20250128090000 +0000">
 		<title>まんが日本史 #32 鉄砲の伝来−キリスト教と西洋技術−</title>
 		<desc>『#32 鉄砲の伝来−キリスト教と西洋技術−』
 1543年、九州の種子島に流れ着いたポルトガル人が所持していた鉄砲により、鉄砲は武器として瞬く間に広まる。
 ＜全52話＞</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14853952/image/25f390e15b89e9ee13e15503bf7636ce.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-134-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_134_65534" start="20250128090000 +0000" stop="20250128100000 +0000">
 		<title>スキンウォーカー牧場の超常現象S4 #37 ミステリーサークル[字]</title>
@@ -37181,17 +37187,17 @@ UFO、巨大ザメなど、世界中から集まった超常現象の映像・�
 	<programme channel="jcom_120_142_65406" start="20250128060000 +0000" stop="20250128070000 +0000">
 		<title>スゴ腕どうぶつドクター　１２「フェアの季節！」[二]</title>
 		<desc>フェアの季節到来！品評会で優勝を目指して子どもたちと動物が続々到着。緊張の競技会と熱気を帯びる競売会！その頃クリニックでは犬同士のケンカで重傷を負ったベラが…。</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14852570/image/5473a643a8ab8a9beb0627bad7e0d1e2.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-142-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_142_65406" start="20250128070000 +0000" stop="20250128080000 +0000">
 		<title>カー・ＳＯＳ　蘇れ！思い出の名車９「歴史作家が夢見たフォード・コルチナＭｋ３」</title>
 		<desc>今回は１９７２年式のフォード・コルチナＭｋ３。かつてはイギリスのベストセラー車だった。オーナーのボビーと家族の夢をかなえることはできるのだろうか。【二ヶ国語】</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14852571/image/327d1723e0f6d4f59831ce4bd4db3cf8.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-142-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_142_65406" start="20250128080000 +0000" stop="20250128090000 +0000">
 		<title>カー・ＳＯＳ　蘇れ！思い出の名車７「伝説の名車ランボルギーニ・エスパーダ」[二]</title>
 		<desc>今回の車はおよそ５０年前に作られたイタリアのスーパーカー、ランボルギーニ・エスパーダ。ティムとファズはレストアを成功させ、オーナーの夢をかなえることができるのか</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14852572/image/c6cf6c98459d2a70052ec3054aaab454.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-142-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_142_65406" start="20250128090000 +0000" stop="20250128100000 +0000">
 		<title>スゴ腕どうぶつドクター６「クリニックの看板猫」[二]</title>
@@ -37472,24 +37478,24 @@ UFO、巨大ザメなど、世界中から集まった超常現象の映像・�
 		<title>【連日２時間連続】大解剖！世界歴史建築ミステリー S4：水の都ベネチア(二)</title>
 		<desc>連日２時間連続
 ベネチアは不安定な島。なぜこのような場所に街が作られ、なぜ今もあり続けているのだろう。ベネチアの秘密を大解剖する。</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14853809/image/bf52de5f3350bd1d729bea3b568bafb2.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-121-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_121_65534" start="20250128070000 +0000" stop="20250128080000 +0000">
 		<title>【連日放送】アイアン・リザレクションS3：70年シボレーC10(字)</title>
 		<desc>連日放送
 金属加工の達人ジョー・マーティンが“MSB”に頭を悩ませながらもシボレーC10を鮮やかな姿に蘇らせる。</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14853810/image/808a11665d6d29a88d416804d77597be.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-121-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_121_65534" start="20250128080000 +0000" stop="20250128083000 +0000">
 		<title>インフォマーシャル(日)</title>
 		<desc>通販番組をお届けする30分</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14853811/image/467c324879916068735dcf8e0ac14789.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-121-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_121_65534" start="20250128083000 +0000" stop="20250128090000 +0000">
 		<title>【一挙放送】名車再生！ポルシェ924 後編(二)</title>
 		<desc>一挙放送
 前回マイクが購入した中古のポルシェ924をエドが修理。かなりガタがきているが、無事に再生させることはできるのか？</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14853812/image/25e86eeb3579402c6210e555aa75bf85.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-121-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_121_65534" start="20250128090000 +0000" stop="20250128100000 +0000">
 		<title>【一挙放送】名車再生！デロリアン(二)</title>
@@ -37802,22 +37808,22 @@ UFO、巨大ザメなど、世界中から集まった超常現象の映像・�
 		<title>【アンコール一挙】再現チャレンジ！動物なりきりマシン：テッポウウオの狩り方(二)</title>
 		<desc>アンコール一挙
 口から水を噴射して昆虫を捕らえるテッポウウオの射撃の腕前に挑む。大砲から発射される液体の「弾」は「獲物」に命中するのか？</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14853421/image/8c9e34d248c962068d64814bc1b6aa3c.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-186-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_186_65406" start="20250128070000 +0000" stop="20250128080000 +0000">
 		<title>地球ものがたり 中南米の大自然：パタゴニア(二)</title>
 		<desc>パタゴニアは生物多様性が非常に豊かな場所だ。ゾウアザラシやオタリアがハーレムを作り、シャチがそれを狙う。草原ではアルマジロなどが生息する。</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14853422/image/e1aa4d7e20629f5c7816eb8e0f6c8842.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-186-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_186_65406" start="20250128080000 +0000" stop="20250128083000 +0000">
 		<title>インフォマーシャル(日)</title>
 		<desc>通販番組をお届けする30分</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14853423/image/7b9caba9c154e4e1e678937c194f20bd.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-186-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_186_65406" start="20250128083000 +0000" stop="20250128090000 +0000">
 		<title>にゃんこ救出大作戦！ ツイントップ(二)</title>
 		<desc>室内飼いの猫、サイモンを助けるためショーンが高い木を登る。しかしサイモンはショーンをからかうかのように、どんどん上へと登ってしまうのだった。</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14853424/image/0b14b1bdd6e7c05d8f3753ca70bb3fb9.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-186-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_186_65406" start="20250128090000 +0000" stop="20250128100000 +0000">
 		<title>デンバー動物クリニック 3-5(字)</title>
@@ -38199,7 +38205,7 @@ UFO、巨大ザメなど、世界中から集まった超常現象の映像・�
 対局日：2024年5月23日
 解　説：高尾紳路九段
 聞き手：矢野瑞季</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14864856/image/110d6faab5e18089e87b765f74b4bad9.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-196-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_196_65406" start="20250128070000 +0000" stop="20250128072500 +0000">
 		<title>囲碁）幽玄の間presents「布石ってステキ」No.21、22</title>
@@ -38207,24 +38213,24 @@ UFO、巨大ザメなど、世界中から集まった超常現象の映像・�
 4つの約束 応用編 生きている石に近づかない(1) ほか
 講　師：青葉かおり四段
 聞き手：古作　登</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14864857/image/0d8ce09024f5e4cd767909d37f5f3572.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-196-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_196_65406" start="20250128072500 +0000" stop="20250128074000 +0000">
 		<title>囲碁）次の一手TV No.28</title>
 		<desc>番組進行：新垣未希</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14864858/image/7f9c7065e0412c9ff53b1d10d534afe4.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-196-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_196_65406" start="20250128074000 +0000" stop="20250128080000 +0000">
 		<title>囲碁）囲碁まるナビNo.111</title>
 		<desc>囲碁まるナビ＃111</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14864859/image/bde740416d80ef58305b020f026b76e6.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-196-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_196_65406" start="20250128080000 +0000" stop="20250128090000 +0000">
 		<title>囲碁）棋力向上委員会 The PASSION！！ No.1016</title>
 		<desc>講　師：小松英樹九段
 司　会：長井多葉紗
 出演：菱沼理美(2)</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14864860/image/bef15022b7a65014051c3b2d1ff69c33.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-196-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_196_65406" start="20250128090000 +0000" stop="20250128104100 +0000">
 		<title>将棋）[杉本和陽特集]第32期 銀河戦</title>
@@ -38640,22 +38646,22 @@ UFO、巨大ザメなど、世界中から集まった超常現象の映像・�
 	<programme channel="jcom_120_145_65406" start="20250128060000 +0000" stop="20250128070000 +0000">
 		<title>【リクエスト】下野流！ 111 桧原湖のワカサギ</title>
 		<desc>今回は福島県桧原湖でワカサギを狙う。桧原湖へ通い始めて15年以上にもなる下野さん。そこまで魅きつけられる理由とは？分厚い氷に覆われた湖面を激走するスノーモービル。</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14852660/image/3f432e95209c1aee06686abbee4a101c.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-145-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_145_65406" start="20250128070000 +0000" stop="20250128080000 +0000">
 		<title>【FV CLASSIC】Oh！エド釣り日記 真冬の神子元島グレ釣り模様</title>
 		<desc>2003年1月27日に放送された『Oh！エド釣り日記 真冬の神子元島グレ釣り模様』。当時の放送内容のままお楽しみください。</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14852661/image/98154a5a77d8f3215d705488f4e351e3.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-145-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_145_65406" start="20250128080000 +0000" stop="20250128083000 +0000">
 		<title>きょうも大漁！関東沖釣り爆釣会 22</title>
 		<desc>関東の沖釣りの魅力を伝える『きょうも大漁！関東沖釣り爆釣会』。略して「関爆（カンバク）」。7代目リーダーの百川晴香が解禁直後の茨城県日立沖で大判ヒラメを狙う。</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14852662/image/75c782d63688fd45ae7b48c4cdf7805c.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-145-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_145_65406" start="20250128083000 +0000" stop="20250128090000 +0000">
 		<title>ブレイクタイム</title>
 		<desc>季節に合わせた様々な内容をお届けします。</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14852663/image/3a773574f70a78820b2af20d42f4cb84.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-145-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_145_65406" start="20250128090000 +0000" stop="20250128100000 +0000">
 		<title>[解]Dz SALT 2ND 47 見島沖ヒラマサ</title>
@@ -38942,22 +38948,22 @@ UFO、巨大ザメなど、世界中から集まった超常現象の映像・�
 	<programme channel="jcom_120_160_65406" start="20250128060000 +0000" stop="20250128070000 +0000">
 		<title>夕刊フジ杯争奪 麻雀女流リーグ2018 #6</title>
 		<desc>「夕刊フジ」が主催する女流雀士によるタイトル戦。チーム戦と個人戦があり、個人戦の優勝者は「女流モンドチャレンジマッチ」の出場権を得ることができる。</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14852923/image/10dc08b1580ddaf207be74925d3c4623.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-160-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_160_65406" start="20250128070000 +0000" stop="20250128073000 +0000">
 		<title>ロンブー亮の釣りならまかせろ！ #20</title>
 		<desc>「釣りの裾野を広げる！」をモットーに、ロンドンブーツ１号２号田村亮とともに様々な釣りをご紹介！　第２０話　ウィリー五目ならまかせろ！</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14852924/image/01de7db241f1c610752363562b01366a.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-160-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_160_65406" start="20250128073000 +0000" stop="20250128080000 +0000">
 		<title>インフォメーション</title>
 		<desc>通販番組をお届けする３０分</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14852925/image/4be7391588b66bb96bb49b908bd18b19.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-160-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_160_65406" start="20250128080000 +0000" stop="20250128093000 +0000">
 		<title>モンド麻雀プロリーグ 第5回名人戦 #13</title>
 		<desc>「予選第１３戦」　麻雀　対局者：金子正輝×小島武夫×沢崎誠×森山茂和　解説：飯田正人　選抜された百戦錬磨のベテランプロ８名による至極の対局</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14852926/image/c200c0491fa23c5faea18a680e201df4.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-160-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_160_65406" start="20250128093000 +0000" stop="20250128100000 +0000">
 		<title>インフォメーション</title>
@@ -39253,19 +39259,19 @@ https://otn.fujitv.co.jp</desc>
 		<title>2024フィギュアスケートブロック大会 ダイジェスト　近畿選手権</title>
 		<desc>ブロック大会ダイジェスト「2024 近畿フィギュアスケート選手権大会」
 ＜開催＞2024年9月26日〜29日　大阪府高石市／大阪府立臨海スポーツセンター</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14852431/image/03f4b6e1de7db037dbc25c7062cd5c62.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-137-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_137_65406" start="20250128080000 +0000" stop="20250128090000 +0000">
 		<title>パチンコLAB 〜2nd season〜　#3</title>
 		<desc>『CR G1 DREAM 〜最強馬決定戦〜 前編』
 ▽「パチンコLAB」がリニューアル！新たな研究員を迎え、パチンコを楽しんで打つための研究をしていく。</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14852432/image/1dcf22a910305b2d995137bde1be0118.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-137-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_137_65406" start="20250128090000 +0000" stop="20250128093000 +0000">
 		<title>パチスロ（旅） #126「大阪編2（2）」</title>
 		<desc>「大阪編2（2）」
 ＜出演＞桜井誠（Dragon Ash／ATOM ON SPHEREドラマー）、射駒タケシ（パチスロ必勝本／パチスロ7ライター）</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14852433/image/8c0bfa27b62de7abc5c54b488c292b7d.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-137-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_137_65406" start="20250128093000 +0000" stop="20250128100000 +0000">
 		<title>パチスロ（旅） #127「大阪編2（3）」</title>
@@ -39547,19 +39553,19 @@ https://otn.fujitv.co.jp</desc>
 		<title>THEわれめDEポン 24時間生スペシャル2024（1時間Ver.）Part11</title>
 		<desc>＜出演＞大村朋宏（トータルテンボス)　小柳ルミ子　坂上忍　月亭八光　波岡一喜　萩原聖人　水崎綾女　宮川一朗太　
 ＜MC＞ガダルカナル・タカ　橘ゆりか　森田涼花</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14852463/image/f973087d6f4b615745917c38e4e27785.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-138-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_138_65406" start="20250128070000 +0000" stop="20250128080000 +0000">
 		<title>ゲームセンターCX 有野の挑戦 アーカイブス　#158「スーパーマリオランド」</title>
 		<desc>「スーパーマリオランド」に挑戦
 （初回放送日　2014年7月17日）
 ▽有野課長が懐かしいゲームに挑戦する「有野の挑戦」を再放送！</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14852464/image/6c9d2dbadc6ec0f2dbea5144ec1079f2.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-138-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_138_65406" start="20250128080000 +0000" stop="20250128090000 +0000">
 		<title>ゲームセンターCX　#391　テンカイの王子「伝説のスタフィー」</title>
 		<desc>ゲームボーイアドバンスのマリンアクション『伝説のスタフィー』に挑戦！エンディングを見せるのだフィー！▽たまゲーは埼玉県のバッティングセンターへ！▽1989PCE</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14852465/image/a325f9b72bef69d9fafde2d80e078bef.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-138-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_138_65406" start="20250128090000 +0000" stop="20250128100000 +0000">
 		<title>野性爆弾のヴィンテージ王国　#26「スーパーヴィンテージバイクに一同驚愕！」</title>
@@ -39911,41 +39917,41 @@ https://otn.fujitv.co.jp</desc>
 		<desc>第4話「心理学者対決!!交換殺人の罠」
 ＜出演＞松下奈緒　藤木直人　横山裕　北村有起哉　臼田あさ美　佐藤二朗　ほか
 （地上波放送日　2011年2月1日）</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14852490/image/63191ae68d388ec5887c78ec9701a4dc.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-139-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_139_65406" start="20250128065000 +0000" stop="20250128070000 +0000">
 		<title>寺門ジモンの肉専門チャンネル ミニ　#14「羊SUNRISE」</title>
 		<desc>「羊SUNRISE」
 ▽芸能界一食に詳しく、そして肉には尋常でなくうるさい男・寺門ジモンがお送りする肉料理に特化した肉専門番組の10分版！</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14852491/image/b35fda1965cffa2cd9b30cb114160651.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-139-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_139_65406" start="20250128070000 +0000" stop="20250128073000 +0000">
 		<title>ワンピース 魚人島編　#31</title>
 		<desc>第547話「再び現在へ！動き出すホーディ」　（地上波放送日　2012年5月13日）
 ＜原作＞尾田栄一郎
 ＜声の出演＞田中真弓　ほか</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14852492/image/48c05b20b9a71f3096745b3582e108c0.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-139-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_139_65406" start="20250128073000 +0000" stop="20250128080000 +0000">
 		<title>ワンピース 魚人島編　#32</title>
 		<desc>第548話「王国激震 ネプチューン処刑指令」　（地上波放送日　2012年5月20日）
 ＜原作＞尾田栄一郎
 ＜声の出演＞田中真弓　ほか</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14852493/image/2aaa305da9ee19fc79262d2f77474ada.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-139-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_139_65406" start="20250128080000 +0000" stop="20250128083000 +0000">
 		<title>ワンピース 魚人島編　#33</title>
 		<desc>第549話「生じた亀裂！ルフィvsジンベエ」　（地上波放送日　2012年5月27日）
 ＜原作＞尾田栄一郎
 ＜声の出演＞田中真弓　ほか</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14852494/image/ddf5ebd6fdd53c8a64b527ce1df0403b.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-139-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_139_65406" start="20250128083000 +0000" stop="20250128090000 +0000">
 		<title>ワンピース 魚人島編　#34</title>
 		<desc>第550話「ホーディの異変 凶薬の真の力！」　（地上波放送日　2012年6月3日）
 ＜原作＞尾田栄一郎
 ＜声の出演＞田中真弓　ほか</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14852495/image/65cdcbb6fa92c8e5a7a568a63635eb99.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-139-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_139_65406" start="20250128090000 +0000" stop="20250128100000 +0000">
 		<title>カバチタレ！　#1　　常盤貴子、深津絵里共演の名作ドラマ！</title>
@@ -40318,32 +40324,32 @@ https://otn.fujitv.co.jp</desc>
 		<desc>最終話「15年分の記憶」（2020年／全16話）
 “愛を演じる男”と“危うさまで愛する女” ふたりの出す答えは――
 出演：イ・ジュンギ、ムン・チェウォン　ほか</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14852411/image/5e0b42c036ce979d667990df153e4280.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-136-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_136_65406" start="20250128073000 +0000" stop="20250128080000 +0000">
 		<title>[新]王様戦隊キングオージャー #1</title>
 		<desc>#1「我は王なり」（2023-2024年／全50話）
 ▽世界の平和を乱す敵を倒すために集結した超キャラが濃い《王様》たち！
 出演者：酒井大成　ほか</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14852412/image/6ecb673dda2accf06b09ea9aa46097c5.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-136-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_136_65406" start="20250128080000 +0000" stop="20250128083000 +0000">
 		<title>ドラえもん #104</title>
 		<desc>#104「22世紀の大決戦！ドラえもんVSドラキュラ‐後編‐」
 子どもから大人まで幅広く愛され続けている国民的アニメが登場！</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14852413/image/65c0cc76de7683f6c48e4d902d6286c6.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-136-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_136_65406" start="20250128083000 +0000" stop="20250128090000 +0000">
 		<title>ドラえもん #105</title>
 		<desc>#105「ドラマチックガス／のび太はエライ！をもう一度」
 子どもから大人まで幅広く愛され続けている国民的アニメが登場！</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14852414/image/e1cfa760a475c8ba8188bd3b73ff309d.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-136-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_136_65406" start="20250128090000 +0000" stop="20250128093000 +0000">
 		<title>クレヨンしんちゃん #1093</title>
 		<desc>#1093「ネネちゃんの相手は大変だゾ／銀行ではお静かにだゾ／カルガモのお引越しだゾ」
 1992年4月〜放映中／原作：臼井儀人</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14852415/image/a16abb25b6b202268ad18356c059f0f0.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-136-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_136_65406" start="20250128093000 +0000" stop="20250128100000 +0000">
 		<title>クレヨンしんちゃん #1094</title>
@@ -40657,17 +40663,17 @@ https://otn.fujitv.co.jp</desc>
 	<programme channel="jcom_120_184_65406" start="20250128063500 +0000" stop="20250128072000 +0000">
 		<title>一途なタンポポちゃん　#22　[字]</title>
 		<desc>養父との約束を胸にあらゆる逆境を乗り越え、夢に向かって走って行くミン・ドゥルレのハートウォーミングなサクセスストーリー。　2014年　全134話</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14853360/image/2b90ead4075c7434600842752b741bd2.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-184-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_184_65406" start="20250128072000 +0000" stop="20250128075000 +0000">
 		<title>インフォメーション</title>
 		<desc> </desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14853361/image/7d89ac130eea79370caf46bdef0e873c.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-184-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_184_65406" start="20250128075000 +0000" stop="20250128090000 +0000">
 		<title>新アニマルバラエティ！動物は素晴らしい　[字][再]</title>
 		<desc>日本初放送！様々な専門家を迎えて動物たちの生態や特性、社会問題について学び知識を深める最新アニマルバラエティをお届け！　2024年〜</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14853362/image/347c32a259f0886c4afeef57fd18b8dc.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-184-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_184_65406" start="20250128090000 +0000" stop="20250128100000 +0000">
 		<title>韓国の街歩き　[字]</title>
@@ -40934,7 +40940,7 @@ https://otn.fujitv.co.jp</desc>
 		<title>【字】中国ドラマ「星河長明 運命の妃と不滅の帝」 #21</title>
 		<desc>出演：ウィリアム・フォン、ポン・シャオラン
 人気ドラマ「海上牧雲記 〜3つの予言と王朝の謎」「斛珠（コクジュ）夫人〜真珠の涙〜」を生んだ“九州シリーズ”最新作！</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14853476/image/cebbceae2abdb8b9d759cff8172b7e97.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-190-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_190_65406" start="20250128073000 +0000" stop="20250128080000 +0000">
 		<title>プラス!ショッピング</title>
@@ -40945,7 +40951,7 @@ https://otn.fujitv.co.jp</desc>
 		<title>【字】韓国ドラマ「美男＜イケメン＞ですね」 #5</title>
 		<desc>チャン・グンソク、パク・シネ、イ・ホンギ、ジョン・ヨンファ　ほか
 （全16話）</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14853478/image/dd189d094fda3a61a564d8a0ee22237e.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-190-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_190_65406" start="20250128091500 +0000" stop="20250128103000 +0000">
 		<title>【字】韓国ドラマ「だから俺はアンチと結婚した」 #6</title>
@@ -41273,7 +41279,7 @@ https://otn.fujitv.co.jp</desc>
 		<title>麻雀最強戦2023▽ファイナル1st【A卓】</title>
 		<desc>【A卓】松嶋桃・高宮まり・園田賢・内川幸太郎
 「最強の麻雀打ち」を決める麻雀界最高峰の戦いを放送！</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14919584/image/0cece71c959a05439d7d3ac3e2eb4a17.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-188-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_188_65406" start="20250128090000 +0000" stop="20250128110000 +0000">
 		<title>DOCTORS 最強の名医 #7・8[終]</title>
@@ -42869,28 +42875,28 @@ K-POPアーティストと俳優のコラボ！
 	<programme channel="jcom_120_143_65406" start="20250128063000 +0000" stop="20250128070000 +0000">
 		<title>林家正蔵の今日も四時から飲み #11</title>
 		<desc>落語家、林家正蔵。高座を終え向かうのは、ひとり飲み。時間はまだ日も高い午後四時。この番組では「四時から飲み」おすすめのお店をご紹介します。２０１６年制作</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14852608/image/ca6295781c22a7e9219a971f63896d31.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-143-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_143_65406" start="20250128070000 +0000" stop="20250128073000 +0000">
 		<title>インフォメーション</title>
 		<desc>インフォメーション
 通販番組をお届けする30分</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14852609/image/dc82b5e66ab380e986fc7edde6c2827c.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-143-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_143_65406" start="20250128073000 +0000" stop="20250128080000 +0000">
 		<title>離島酒場 #47</title>
 		<desc>離島の酒場で飲み歩く番組。島の酒肴を求めて松尾貴史が離島を巡ります。第４７話「沖永良部島」２０２２年制作</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14852610/image/c2c323c2fbca42b2b3e24e3c9ed6482b.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-143-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_143_65406" start="20250128080000 +0000" stop="20250128090000 +0000">
 		<title>ミステリー・ミュージアム シーズン11 #10</title>
 		<desc>世界各地にある博物館の展示品の謎に迫り、驚くべき秘密を解き明かす！　Ｅｐｉｓｏｄｅ　１０　石のペットで荒稼ぎ</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14852611/image/ddaeaa41871e46e0b1c8133fa88ac80f.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-143-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_143_65406" start="20250128090000 +0000" stop="20250128093000 +0000">
 		<title>離島酒場 #32</title>
 		<desc>居酒屋番組は数あれど、唯一離島の酒場だけを飲み歩く番組。ナビゲート役は、酒好きタレント田中要次。第３２話「宇久島」２０２０年制作</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14852612/image/b24427fb59761f9f914cb5b63a27cb25.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-143-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_143_65406" start="20250128093000 +0000" stop="20250128100000 +0000">
 		<title>インフォメーション</title>
@@ -43306,7 +43312,7 @@ K-POPアーティストと俳優のコラボ！
 	<programme channel="jcom_120_187_65406" start="20250128070000 +0000" stop="20250128083000 +0000">
 		<title>【終】理麗麻雀５〜最強女流ペア決定戦〜 #8</title>
 		<desc>女流最強ペアを決める戦い理麗麻雀の第５弾！歴代優勝の４チームが激突！華麗にバトンを繋ぎ、最強ペアの称号を手にするのは果たしてどの二人なのか！？</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14853452/image/820dcb6128d0e1bb904cd91cb1dda166.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-187-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_187_65406" start="20250128083000 +0000" stop="20250128100000 +0000">
 		<title>理麗麻雀６〜最強女流ペア決定戦〜 #1</title>
@@ -43971,12 +43977,12 @@ K-POPアーティストと俳優のコラボ！
 	<programme channel="jcom_120_105_65406" start="20250128060500 +0000" stop="20250128071000 +0000">
 		<title>美人すぎる講師の特別パーソナルレッスン！◆ちなつ式ピラティス・メソッド #2</title>
 		<desc>美人すぎるピラティス講師・ちなつの特別パーソナルレッスン！</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14854192/image/e8712d3e7819af821e8c2c2367676441.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-105-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_105_65406" start="20250128071000 +0000" stop="20250128091500 +0000">
 		<title>熱き青春の戦い！◆第14回全日本高等学校チームダンス選手権大会 九州・東北予選</title>
 		<desc>高校ダンス部が目標とし、年間活動計画の柱となる公式大会。部活にかける熱い想いが、ここに集結する！</desc>
-		<icon src="https://tvguide.myjcom.jp/monomedia/si/2025/20250128/14854193/image/8cc9884ea0b92c9164a5e8e1237ec992.jpg" />
+		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-105-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_105_65406" start="20250128091500 +0000" stop="20250128105500 +0000">
 		<title>世界最大規模！◆マイナビDANCEALIVE 2024 FINAL #1</title>
@@ -45009,8 +45015,9 @@ K-POPアーティストと俳優のコラボ！
 		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-107-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_107_65406" start="20250128183000 +0000" stop="20250128190000 +0000">
-		<title>津　レースダイジェスト</title>
-		<desc>レースダイジェストをお送りします。</desc>
+		<title>ボートレース年鑑　＃１２　１９９９年</title>
+		<desc>ＳＧレースを中心に数々の伝説や名レースが蘇る！「ボートレース年鑑」
+第１２回は１９９９年を振り返ります。</desc>
 		<icon src="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-107-400x400.png" />
 	</programme>
 	<programme channel="jcom_120_107_65406" start="20250128190000 +0000" stop="20250128193000 +0000">
